@@ -1,12 +1,16 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Ingaba ndicinga ukuba ndingubani?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Ndingumntu! Ndizama ukwenza ngathi ikhona into endiyaziyo.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Ndiyaxoka maan. Ndizama ukubhala, ukufunda kanye nokukhulu ngentla.
+Andithethi ngomzimba wangasentla. Ndithetha ngapha kwalonto. Ndithetha
+ngentloko.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Andifane ndibhale into ngesiXhosa, ngenxa yalo nto ngamanye amaxesha ndiziva
+ndiphulukana nolwimi lam. Yonke into ebhalwa yindlela yam yokuziphucula
+ekubhaleni kunye nokufunda lubanzi ngezinto endingazaziyo.
