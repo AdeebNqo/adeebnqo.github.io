@@ -3,7 +3,7 @@ layout: post
 title:  "Nguni languages and computers"
 subtitle: "awundikwaka kukusebenzisa isingesi kuyo yonke into?"
 date:   2016-02-11 14:01:00
-categories: [nlg, isiXhosa, code]
+categories: [nlg, isiXhosa]
 ---
 
 Ukwazisa into endiyenzayo ngoku ngobomi bam.
@@ -27,7 +27,7 @@ neXMl, JSON, kunye nezinye iSerialization formats. UWikipedia, xa ecacisa iXML, 
  
 Ukuba ufuna ukubona umzekelo walelwimi, musa ukoyika - sizakubonisa. IYinto efana nale ingezantsi:
 
-  ```
+{% highlight xml %}
   <food>
     <name>Umgqusho</name>
     <price>R5.95</price>
@@ -35,17 +35,17 @@ Ukuba ufuna ukubona umzekelo walelwimi, musa ukoyika - sizakubonisa. IYinto efan
         Xhosa dish. Samp and beans. Best enjoyed in chilly weather
     </description>
   </food>
-  ````
+{% endhighlight %}
   
 Ukuba uyaqwalasela, singcina ulwazi oluninzi ngoluhlubo. Izinto ezifana ne gama, xabiso kunye nengcaciso yokukutya.
 Kulula ufumana into oyifunayo kolulwazi. Mhlwawumbi xa ufuna igama lokutya uzakwenza oluhlobo:
 
- ```
+ {% highlight java %}
  Food foodObject = new Food(xmlData);
  String name = foodObject.getName();
  String price = foodObject.getPrice();
  String description = foodObject.getDescription();
- ```
+{% endhighlight %}
  
 Xa uzivumene ezinto zintathu, ungazisebezinsa xa ufuna ukulibhala ngolwimi labantu olulwazi. Umzekelo, esiNgesini ungathi:
 
@@ -65,13 +65,13 @@ Ungacinga ukuba ukubhala le nto ilandelayo kwaznele:
 Ingxaki apha yinto yokuba isimaphambili sengema sixhomekeka kwamanye amagama asetyenzisiweyo
 ecaleni kwegama elo. Ukuba unikwe olulwazi lulandelayo, le nto besithetha ngayo ngentla ayisasebenzi.
 
-  ```
+ {% highlight xml %}
   <food>
     <name>Spinach</name>
     <price>R5.95</price>
     <description>Siluhlaza kwaye sisaphilele.</description>
   </food>
-  ```
+{% endhighlight %}
 
 Kukho isibe lemfundo phakathi kweComputer Science ekuthiwa yi-Natural language generation (NLG).
 Umsebenzi welisebe kukuthatha ulwazi olubonakaliswe ngendlela ezifanele icomputer liluse kwisiNgesi
