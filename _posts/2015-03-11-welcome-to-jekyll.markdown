@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 subtitle: "Feel home!"
 date:   2015-03-11 23:34:01
-categories: [design, tool]
+categories: [nlg, isiXhosa]
 ---
 Ukuguqula ulwimi uluse kwelinye usebenzisa icomputer yinto enzima.
 Ndiyaqonda ukuba umntu ongenalwazi oluphangaleleyo ngalemeko angavele
