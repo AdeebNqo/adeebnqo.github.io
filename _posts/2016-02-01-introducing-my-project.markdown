@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing my project"
 subtitle: "awundikwaka kukusebenzisa isingesi kuyo yonke into?"
-date:   2016-01-01 14:01:00
+date:   2016-02-01 14:01:00
 categories: [nlg, isiXhosa]
 ---
 
