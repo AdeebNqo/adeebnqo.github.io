@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: isiXhosa
+  name: isiXhosa
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: nlg
+  name: NLG
