@@ -6,77 +6,22 @@ date:   2016-02-11 14:01:00
 categories: [nlg, isiXhosa]
 ---
 
-Ukwazisa into endiyenzayo ngoku ngobomi bam.
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-___
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+Jekyll also offers powerful support for code snippets:
 
-Ukuguqula ulwimi uluse kwelinye usebenzisa icomputer yinto enzima.
-Ndiyaqonda ukuba umntu ongenalwazi oluphangaleleyo ngalemeko angavele
-ajonge izinto ezifana noGoogle Translate acinge ukuba singabantu
-sele siphumelele. Indaba ezimbi yinto yokuba uGoogle Translate
-akasebenzi ncam.
-
-
-Xa unolwazi ufuna ulungcina kwikhomputha usebenzisa iilwimi ezifana
-neXMl, JSON, kunye nezinye iSerialization formats. UWikipedia, xa ecacisa iXML, uthi:
-
-  > Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format which is
-  > both human-readable and machine-readable. It is defined by the W3C's XML 1.0 Specification and by several other related specifications,
-  > all of which are free open standards.
- 
-Ukuba ufuna ukubona umzekelo walelwimi, musa ukoyika - sizakubonisa. IYinto efana nale ingezantsi:
-
-{% highlight xml %}
-  <food>
-    <name>Umgqusho</name>
-    <price>R5.95</price>
-    <description>
-        Xhosa dish. Samp and beans. Best enjoyed in chilly weather
-    </description>
-  </food>
-{% endhighlight %}
-  
-Ukuba uyaqwalasela, singcina ulwazi oluninzi ngoluhlubo. Izinto ezifana ne gama, xabiso kunye nengcaciso yokukutya.
-Kulula ufumana into oyifunayo kolulwazi. Mhlwawumbi xa ufuna igama lokutya uzakwenza oluhlobo:
-
- {% highlight java %}
- Food foodObject = new Food(xmlData);
- String name = foodObject.getName();
- String price = foodObject.getPrice();
- String description = foodObject.getDescription();
-{% endhighlight %}
- 
-Xa uzivumene ezinto zintathu, ungazisebezinsa xa ufuna ukulibhala ngolwimi labantu olulwazi. Umzekelo, esiNgesini ungathi:
-
-
-  > We serve `foodObject.getName()` at the price of `foodObject.getPrice()`
-
-
-Akukho lula ukwenza into efanayo ngeeLwimi zesiNguni. Ezilwimi ziquka isiXhosa, isiZulu, isiSwati kunye nesiNdebele.
-Esinye sesizathu sokuba kube njalo yinto yokuba ezilwimi kuthiwa ziilwimi ezi-agglutinative. Ndicela uqaphele ukuba
-umzekelo lo ndiwudwelise ngentla ubonakilisa imeko enye kwaye elula.
-
-
-Ungacinga ukuba ukubhala le nto ilandelayo kwaznele:
-
-  > Sithengisa `foodObject.getDescription()` ngemali engange-`foodObject.getPrice()`
-
-Ingxaki apha yinto yokuba isimaphambili sengema sixhomekeka kwamanye amagama asetyenzisiweyo
-ecaleni kwegama elo. Ukuba unikwe olulwazi lulandelayo, le nto besithetha ngayo ngentla ayisasebenzi.
-
- {% highlight xml %}
-  <food>
-    <name>Spinach</name>
-    <price>R5.95</price>
-    <description>Siluhlaza kwaye sisaphilele.</description>
-  </food>
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Kukho isibe lemfundo phakathi kweComputer Science ekuthiwa yi-Natural language generation (NLG).
-Umsebenzi welisebe kukuthatha ulwazi olubonakaliswe ngendlela ezifanele icomputer liluse kwisiNgesi
-okanye kwezinye iilwimi zabantu. Ngenxa yeNLG singakwazi ukwenza iincwadi, iingcaciso kwicomputer kunye
-nezinye iintlobo zemibhalo.
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-Kulonyaka ndizama (kunye nabanye abantu) ukwakha iSystem engakhupha iilwimi zesiNguni, ndiqwalasele isiXhosa
-kakhulu.
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
