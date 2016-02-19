@@ -3,7 +3,7 @@ layout: post
 title:  "Part 1 : Keet Khumalo Paper"
 subtitle: "Toward a knowledge-to-text controlled natural language for isiZulu by Maria Keet & Langa Khumalo"
 date:   2016-02-18 22:01:00
-categories: [nlg, isiXhsosa]
+categories: [nlg, isiXhosa]
 ---
 
 IsiZulu lulwimi lwesiNguni. Iilwimi zesiNguni ziquka isiXhosa, isiNdebele
