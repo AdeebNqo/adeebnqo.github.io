@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Keet Khumalo Paper"
+title:  "Part 1 : Keet Khumalo Paper"
 subtitle: "Toward a knowledge-to-text controlled natural language for isiZulu by Maria Keet & Langa Khumalo"
 date:   2016-02-18 22:01:00
 categories: [nlg, isiXhsosa]
@@ -59,17 +59,23 @@ yalonto kuyacaca ukuba ii-templates azizokulunga ukudilishana nazo zonke ezi-con
 Ingxaki ibangelwa yinto yokuba kwisiZulu, isibizo sitshintsha imeko kwisivakalisi. Ngamanye amazwi, izinto ezifana
 nee-quantifiers, negation kunye nezenzi zixhomekeke kwisibizo. Umzekelo omfutshane ubekwe ngezantsi ukubonisa ukuba kutheni i-templates zingasoze zisebenze. Lo mzekelo usebenzisa i-quantification.
 
->  Consider a template for English for a simple axiom with quantification,
->  which can be, e.g., All [noun1 pl.] [verb 3rd pers. pl.] at least one [noun2]
->
->  The words for ‘all’ and the ‘at least one’ in isiZulu, however, depend on the noun
->  class of [noun1] (or [noun1 pl.]) and [noun2], respectively. For instance:
->
+
+Consider a template for English for a simple axiom with quantification,
+which can be, e.g.
+
+> All [noun1 pl.] [verb 3rd pers. pl.] at least one [noun2]
+
+The words for ‘all’ and the ‘at least one’ in isiZulu, however, depend on the noun
+class of [noun1] (or [noun1 pl.]) and [noun2], respectively. For instance:
+
 >  bonke oSolwazi bafundisa isifundo esisodwa
+
 >  ‘all professors teach at least one course’
->
->  compared to
+
+compared to
+
 >  konke ukusebenza kuyawufeza umsebenzi onqunyiwe owodwa
+
 >  ‘all operations achieve at least one task’
 
 Xa sihlalutya le nto, sizama ukwazi ukuba kwenzeka ntoni; siyabona ukuba u-"oSolwazi" ukwihlelo lesithathu kwaye
