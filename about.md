@@ -9,8 +9,8 @@ Ndingumntu! Ndizama ukwenza ngathi ikhona into endiyaziyo.
 
 Ndiyaxoka maan. Ndizama ukubhala, ukufunda kanye nokukhulu ngentla.
 Andithethi ngomzimba wangasentla. Ndithetha ngapha kwalonto. Ndithetha
-ngentloko.
+ngentloko. :bowtie:
 
-Andifane ndibhale into ngesiXhosa, ngenxa yalo nto ngamanye amaxesha ndiziva
-ndiphulukana nolwimi lam. Yonke into ebhalwa yindlela yam yokuziphucula
+Andifani ndibhale into ngesiXhosa, ngenxa yalo nto ngamanye amaxesha ndiziva
+ndiphulukana nolwimi lam. Yonke into ebhalwa apha yindlela yam yokuziphucula
 ekubhaleni kunye nokufunda lubanzi ngezinto endingazaziyo.
