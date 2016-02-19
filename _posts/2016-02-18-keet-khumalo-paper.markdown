@@ -59,18 +59,18 @@ yalonto kuyacaca ukuba ii-templates azizokulunga ukudilishana nazo zonke ezi-con
 Ingxaki ibangelwa yinto yokuba kwisiZulu, isibizo sitshintsha imeko kwisivakalisi. Ngamanye amazwi, izinto ezifana
 nee-quantifiers, negation kunye nezenzi zixhomekeke kwisibizo. Umzekelo omfutshane ubekwe ngezantsi ukubonisa ukuba kutheni i-templates zingasoze zisebenze. Lo mzekelo usebenzisa i-quantification.
 
-  Consider a template for English for a simple axiom with quantification,
-  which can be, e.g., All [noun1 pl.] [verb 3rd pers. pl.] at least one [noun2]
-
-  The words for ‘all’ and the ‘at least one’ in isiZulu, however, depend on the noun
-  class of [noun1] (or [noun1 pl.]) and [noun2], respectively. For instance:
-
-  bonke oSolwazi bafundisa isifundo esisodwa
-  ‘all professors teach at least one course’
-
-  compared to
-  konke ukusebenza kuyawufeza umsebenzi onqunyiwe owodwa
-  ‘all operations achieve at least one task’
+>  Consider a template for English for a simple axiom with quantification,
+>  which can be, e.g., All [noun1 pl.] [verb 3rd pers. pl.] at least one [noun2]
+>
+>  The words for ‘all’ and the ‘at least one’ in isiZulu, however, depend on the noun
+>  class of [noun1] (or [noun1 pl.]) and [noun2], respectively. For instance:
+>
+>  bonke oSolwazi bafundisa isifundo esisodwa
+>  ‘all professors teach at least one course’
+>
+>  compared to
+>  konke ukusebenza kuyawufeza umsebenzi onqunyiwe owodwa
+>  ‘all operations achieve at least one task’
 
 Xa sihlalutya le nto, sizama ukwazi ukuba kwenzeka ntoni; siyabona ukuba u-"oSolwazi" ukwihlelo lesithathu kwaye
 u-"ukusebenza" ukwihlelo 15. Ngenxa yozizahu, siphela sisebenzisa u-"bonke" kunye no-"konke" xa kusetyenziswe
@@ -81,15 +81,15 @@ izinto ezibalulekileyo ngolulwimi.
 
 References:
   
-[1] Council for Scientific and Industrial Research (CSIR), Meraka Institute, http://www.csir.co.za/meraka/National_Recordal_System.html
-[2] Kuhn, T. (2013). A principled approach to grammars for controlled natural languages and predictive
-editors. Journal of Logic, Language and Information, 12, 13–48
-[3] Ranta, A. (2011). Grammatical framework: Programming with multilingual grammars. Stanford: CSLI
+- [1] Council for Scientific and Industrial Research (CSIR), Meraka Institute, http://www.csir.co.za/meraka/National_Recordal_System.html
+- [2] Kuhn, T. (2013). A principled approach to grammars for controlled natural languages and predictive
+- editors. Journal of Logic, Language and Information, 12, 13–48
+- [3] Ranta, A. (2011). Grammatical framework: Programming with multilingual grammars. Stanford: CSLI
 Publications.
-[4] Bouayad-Agha, N., Casamayor, G., & Wanner, L. (2014). Natural language generation in the context of
+- [4] Bouayad-Agha, N., Casamayor, G., & Wanner, L. (2014). Natural language generation in the context of
 the semantic web. Semantic Web Journal, 5(6), 493–513
-[5] Jarrar, M., Keet, C. M., & Dongilli, P. (2006). Multilingual verbalization of ORM conceptual models and
+- [5] Jarrar, M., Keet, C. M., & Dongilli, P. (2006). Multilingual verbalization of ORM conceptual models and
 axiomatized ontologies. Starlab technical report, Vrije Universiteit Brussel, Belgium.
-[6] Keet, C.M. and Khumalo, L., Toward a knowledge-to-text controlled natural language of isiZulu. Language Resources and Evaluation, pp.4.
-[7] Keet, C. M., & Khumalo, L. (2014a). Basics for a grammar engine to verbalize logical theories in isiZulu.
+- [6] Keet, C.M. and Khumalo, L., Toward a knowledge-to-text controlled natural language of isiZulu. Language Resources and Evaluation, pp.4.
+- [7] Keet, C. M., & Khumalo, L. (2014a). Basics for a grammar engine to verbalize logical theories in isiZulu.
 In A. Bikakis et al., (Eds.), Proceedings of the 8th International Web Rule Symposium (RuleML’14)
