@@ -6,7 +6,8 @@ date:   2016-02-18 22:01:00
 categories: [nlg, isiXhosa]
 ---
 
-IsiZulu lulwimi lwesiNguni. Iilwimi zesiNguni ziquka isiXhosa, isiNdebele
+Ulwazi lwanamhlanje lusuka kwiphepha lika Keet kunye noKhumalo. Igama leliphepha leli lingentla.
+IsiZulu lulwimi lwesiNguni. IsiZulu lulwimi lwesiNguni. Iilwimi zesiNguni ziquka isiXhosa, isiNdebele
 kunye nesiSwati. Kuzo zonke ezilwimi, isiZulu lelona lwimi luxhaphakaleyo,
 sithethwa ngabantu abayi-22.7% kubo bonke abantu eMzantsi Afrika. Nangona kunjalo,
 isiZulu kunye nazo ezinye iilwimi esizibizileyo zinqabile kwiSoftware. Kweliphepha,
