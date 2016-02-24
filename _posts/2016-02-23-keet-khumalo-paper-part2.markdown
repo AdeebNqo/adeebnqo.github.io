@@ -2,7 +2,7 @@
 layout: post
 title:  "Part 2 : Keet Khumalo Paper"
 subtitle: "Toward a knowledge-to-text controlled natural language for isiZulu by Maria Keet & Langa Khumalo"
-date:   2016-02-24 13:30:00
+date:   2016-02-23 13:30:00
 categories: [nlg, isiXhosa]
 ---
 
