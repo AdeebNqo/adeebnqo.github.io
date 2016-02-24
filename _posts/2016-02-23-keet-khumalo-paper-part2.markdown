@@ -98,10 +98,9 @@ Kumele ukuba iyacaca ukuba sesiphi isiqu, i-extention kunye nesikhamiso sokugqib
 
 
 
-[1] Durrant, P. (2013). Formulaicity in an agglutinating language: The case of Turkish. Corpus Linguistics
+- [1] Durrant, P. (2013). Formulaicity in an agglutinating language: The case of Turkish. Corpus Linguistics
 and Linguistic Theory, 9(1), 1–38
-[2] Keet, C.M. and Khumalo, L., Toward a knowledge-to-text controlled natural language of isiZulu. Language Resources and Evaluation, pp.4.
-Ngcobo, M. N. (2010). Zulu noun classes revisited: A spoken corpus-based approach. South African
+- [2] Keet, C.M. and Khumalo, L., Toward a knowledge-to-text controlled natural language of isiZulu. Language Resources and Evaluation, pp.4. Ngcobo, M. N. (2010). Zulu noun classes revisited: A spoken corpus-based approach. South African
 Journal of African Languages, 1, 11–21
-[3] Wald, B. (1987). Swahili and the Bantu languages. In B. Comrie (Ed.), The World’s Major Languages
+- [3] Wald, B. (1987). Swahili and the Bantu languages. In B. Comrie (Ed.), The World’s Major Languages
 (pp. 991–1014). Oxford: Oxford University Press.
