@@ -73,8 +73,8 @@ Eligama lithi "noma" lisetyenziswa kuba kuthethwa ngokubala. umlingani walo kwis
 izi-clitics kwaye zincanyathiselwa kwisibizo. Isizathu yinto yokuba zibonisa ukuba esosibizo siphakathi kwezinye.
 Ngamanye amazwi, isibizo sicacisa into enye okanye ezininzi. I-universal quantification ifunanywa ngokusebenzisa ezi-templates zikwiphepha lika Keet noKhumalo[4]. Ababhali bathi le yokuqala yeyona ilula. Ngaphezulu koko,
 i-survey yabo ibonisa ukuba abantu bakhetha yona kunezinye. Ngamanye amazwi, abantu bacinga ukuba ikhupha izivakalisi ezingcono.
-
-[1] The International Health Terminology Standards Development Organisation, http://www.ihtsdo.org/snomed-ct, Retrived 24 Feb 2016
-[2] Keet, C.M. and Khumalo, L., Toward a knowledge-to-text controlled natural language of isiZulu. Language Resources and Evaluation, pp.7.
-[3] Ibid, pp.12
-[4] Ibid, pp.13
+ 
+- [1] The International Health Terminology Standards Development Organisation, http://www.ihtsdo.org/snomed-ct, Retrived 24 Feb 2016
+- [2] Keet, C.M. and Khumalo, L., Toward a knowledge-to-text controlled natural language of isiZulu. Language Resources and Evaluation, pp.7.
+- [3] Ibid, pp.12
+- [4] Ibid, pp.13
