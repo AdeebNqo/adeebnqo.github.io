@@ -98,5 +98,4 @@ the semantic web. Semantic Web Journal, 5(6), 493–513
 - [5] Jarrar, M., Keet, C. M., & Dongilli, P. (2006). Multilingual verbalization of ORM conceptual models and
 axiomatized ontologies. Starlab technical report, Vrije Universiteit Brussel, Belgium.
 - [6] Keet, C.M. and Khumalo, L., Toward a knowledge-to-text controlled natural language of isiZulu. Language Resources and Evaluation, pp.4.
-- [7] Keet, C. M., & Khumalo, L. (2014a). Basics for a grammar engine to verbalize logical theories in isiZulu.
-In A. Bikakis et al., (Eds.), Proceedings of the 8th International Web Rule Symposium (RuleML’14)
+- [7] Keet, C. M., & Khumalo, L. (2014a). Basics for a grammar engine to verbalize logical theories in isiZulu. In A. Bikakis et al., (Eds.), Proceedings of the 8th International Web Rule Symposium (RuleML’14)
