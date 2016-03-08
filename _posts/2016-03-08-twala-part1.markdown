@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Part 1 : Twala"
+subtitle: "The noun class system of isiZulu by Edith Twala"
+date:   2016-03-08 16:50:00
+categories: [isiXhosa]
+---
+
+Umsebenzi kamama u-Edith Twala[4] (Thwala?) uphica-phica amahlelo ezibizo kwisiZulu.
+Isizathu salento kukuzama ukwehlula amahlelo. Ulwazi oluxelwa apha yingqokelela
+yezinto ekusele zisaziwa. I-chapter yokuqala izokujonga ezizinto zilandelayo:
+
+	1. yintoni ihlelo kwaye ihlelo phakathi kwelinye silazi njani
+	2. zeziphi iindlela ekumele siwaphawula ngayo amahlelo?
+	3. zisetyenziswa njani izimaphambili kunye nezimamva emahlelweni
+
+Masiqale ngokujonga iitafile zamahlelo. Umbhali u-Grout[1] kunye nabanye benza itafile
+yamahlelo ezibizo. Hlelo nganye libonisa isininzi kunye nesinye sesibizo kulamahlelo.
+Omnye umbhali owasebenza kwelicala ngu-Doke[2]. Lo mbhali wongeza amahlelo amabini kule
+tafile eyayize no-Grout kunye nabanye. Ngaphez' kokufaka amahlelo amabini, u-Doke wenze
+ezinye izinto. Ihlelo lesithandathu ku-Grout, u-Doke ulenze ihlelo lesibibini.
+
+	[[https://github.com/AdeebNqo/adeebnqo.github.io/blob/master/assets/posts/grout.png|alt=Grout noun class system]]
+
+
+Ukuqwalasela umsebenzi ka-Doke, umntu uyabona ukuba amahlelo asithandathu anesinye kunye
+nesininzi. Amahlelo amane awanazo - ungacinga ukuba kungenxa yento yokuba agcina izibizo
+ekuthiwa esiNgesini zii-mass nouns.
+
+	[[https://github.com/AdeebNqo/adeebnqo.github.io/blob/master/assets/posts/doke.png|alt=Doke noun class system]]
+
+
+U-Grout kunye nogxa bakhe abalohluli bubini ihlelo lokuqala. UTwala uthi ukuba u-Doke utsho
+kwacaca ukuba ihlelo lesi-9 kunye nele-10 awagcini izibizo zesiZulu ezizizo. Agcina ii-locatives.
+Basebenzisa eligama ndingalaziyo xa besenza umzekelo:
+
+> ukuthokozi
+
+Bakhona ababhali abasebenzisa itafile ka-Dokes. Kodwa bayatsho ukuba lamahlelo awongezileo (9 & 10)
+ngawe locative adverbs, hayi izibizo. Umsebenzi ka-Meinhof ngoyena ubalaseleyo. U-Meinhof usebenzise
+umsebenzi ka-Bleek[3]. Nangona uDoke, Malcom, Nyembezi kunye no-Van Eeden babesohlula amahlelo ukuze
+abesisibhozo, babevuma kodwa ukuba umsebenzi ka-Meinhof ukuba uyenye yendlela ezikulungeleyo ukubonakalisa
+izibizo. Umsebenzi ka-Meinhof awudibanisi isinizi kunye nesinye sesibizo kwihlelo elinye.
+
+	[[https://github.com/AdeebNqo/adeebnqo.github.io/blob/master/assets/posts/meinhof.png|alt=Meinhof noun class system]]
+
+Umbuzo esizibuza wona ngoku uthi - yintoni kanye-kanye ihlelo? Umam' u-Twala uthi ingcaciso yokuba
+yintoni i-"noun class" yinto ungasoze udibane nayo. Uthi ukuba uyaqwalasela, abantu abenze iitafile
+zamahlelo, basebenzisa izimaphambili ezinye, umehluko abanawo ngamanani wamahlelo lawo. Uthe wokukhangela
+ukuba yintoni eyenza ihlelo, ufumane ezi-criteria:
+
+	Morphological, Syntantic kunye ne-Semantic
+
+I-criteria ephambili ekwahluleni amahlelo yile i-morphological. Yiyo lo nto isibizo esiqala ngo {umu-}
+sizakuba kwihlelo elahlukileyo kunesibizo esiqala ngo {aba-}. I-criteria ye-syntax yona ixhomkeke kwizimaphambili/nezimamva kunye nezimelabizo. I-criteria ye-semantics iqwalasele ukuba lamagama athetha
+ukuthini wona.
+
+- [1] Grout, L , 1859, A Grammar of the Zulu Language. May and Davis: Pietermaritzburg
+- [2] Doke, CM, 1986, Textbook of Zulu Grammar. (Sixth Edition). Maskew Miller Longman, Cape Town
+- [3] Bleek, WHI, 1869, A comparative grammar of South African languages. Juta, Cape Town.
+- [4] Twala, E. 2012, The noun class system of isiZulu. (African Languages) MA. [Unpublished] University of Johannesburg.
