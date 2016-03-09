@@ -19,14 +19,14 @@ Omnye umbhali owasebenza kwelicala ngu-Doke[2]. Lo mbhali wongeza amahlelo amabi
 tafile eyayize no-Grout kunye nabanye. Ngaphez' kokufaka amahlelo amabini, u-Doke wenze
 ezinye izinto. Ihlelo lesithandathu ku-Grout, u-Doke ulenze ihlelo lesibibini.
 
-![Grout noun class system](https://github.com/AdeebNqo/adeebnqo.github.io/blob/master/assets/posts/grout.png)
+![Grout noun class system](https://raw.githubusercontent.com/AdeebNqo/adeebnqo.github.io/master/assets/posts/grout.png)
 
 
 Ukuqwalasela umsebenzi ka-Doke, umntu uyabona ukuba amahlelo asithandathu anesinye kunye
 nesininzi. Amahlelo amane awanazo - ungacinga ukuba kungenxa yento yokuba agcina izibizo
 ekuthiwa esiNgesini zii-mass nouns.
 
-![Doke noun class system](https://github.com/AdeebNqo/adeebnqo.github.io/blob/master/assets/posts/doke.png)
+![Doke noun class system](https://raw.githubusercontent.com/AdeebNqo/adeebnqo.github.io/master/assets/posts/doke.png)
 
 
 U-Grout kunye nogxa bakhe abalohluli bubini ihlelo lokuqala. UTwala uthi ukuba u-Doke utsho
@@ -41,7 +41,7 @@ umsebenzi ka-Bleek[3]. Nangona uDoke, Malcom, Nyembezi kunye no-Van Eeden babeso
 abesisibhozo, babevuma kodwa ukuba umsebenzi ka-Meinhof ukuba uyenye yendlela ezikulungeleyo ukubonakalisa
 izibizo. Umsebenzi ka-Meinhof awudibanisi isinizi kunye nesinye sesibizo kwihlelo elinye.
 
-![Meinhof noun class system](https://github.com/AdeebNqo/adeebnqo.github.io/blob/master/assets/posts/meinhof.png)
+![Meinhof noun class system](https://raw.githubusercontent.com/AdeebNqo/adeebnqo.github.io/master/assets/posts/meinhof.png)
 
 
 Umbuzo esizibuza wona ngoku uthi - yintoni kanye-kanye ihlelo? Umam' u-Twala uthi ingcaciso yokuba
