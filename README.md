@@ -1,6 +1,6 @@
 This is my blog.
 
-Forked from [Motaquillah Maddane](https://github.com/kronik3r)'s daktilo.
+It was forked from [Motaquillah Maddane](https://github.com/kronik3r)'s daktilo.
 
 # License
 
