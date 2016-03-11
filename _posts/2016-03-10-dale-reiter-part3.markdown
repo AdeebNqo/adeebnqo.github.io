@@ -5,8 +5,8 @@ subtitle: "Building Applied Natural Language Generation Systems by Robert Dale &
 date:   2016-03-10 17:00:00
 categories: [nlg, isiXhosa]
 ---
-s
-Sizakuhlalutya le ndaba ye-grammar engine. Ingaba kuthen ibalulekile?
+
+Namhlanje sizakuhlalutya le ndaba ye-grammar engine. Ingaba kuthen ibalulekile?
 Sibuyela kwiphepha lika-Dale kunye no-Reiter, sikhangela ingcaciso. Ababhali
 bathi abantu abaninzi bayijonga njengento eyinguqulelo ye-parsing le ndaba
 ye-linguistic realisation. I-system yoku-parser isebenza ngoluhlobo; kusetyenziswa
