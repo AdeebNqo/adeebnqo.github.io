@@ -6,9 +6,9 @@ date:   2016-03-13 17:24:00
 categories: [bookreview, isiXhosa]
 ---
 
-![Book cover](http://www.benjaminkwakye.com/images/Toc_2-330.jpg)
+![Book cover](https://kinnareads.files.wordpress.com/2010/11/the-other-crucifix.jpg?w=723)
 
-Le ncwadi ndiyithenge e-Blank Books (http://blankbooks.co.za/).
+Le ncwadi ndiyithenge e-[Blank Books](http://blankbooks.co.za/).
 Andinamali kwezintsuku, indoda ngoku ikhangela indawo eneencwadi
 ezinexabiso elifikelelakayo. Into embi yinto yokuba amaxabiso walavekile
 angaphaya kokuqonda. Ndiye ndafumana incwadi ethi Indaba My Children
