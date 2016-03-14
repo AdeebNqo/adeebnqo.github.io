@@ -10,7 +10,7 @@ author:
   github: AdeebNqo
   # disqus: your_disqus_username
 
- google_analytics: 'UA-66155430-4'
+google_analytics: "UA-66155430-4"
 
 # Handling Reading
 exclude: ["README.md", "README.html"]
