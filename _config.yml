@@ -12,12 +12,14 @@ links:
     url:          /about
   - name:         Blog
     url:          /
+  - name:         Reads
+    url:          /toread
   - name:         GitHub
     url:          http://github.com/adeebnqo
     external:     true
 highlighter:      pygments
 permalink:        pretty
-markdown:         redcarpet
+markdown:         kramdown
 redcarpet:
   extensions:
     - smart
