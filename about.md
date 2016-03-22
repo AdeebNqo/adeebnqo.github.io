@@ -7,10 +7,9 @@ permalink: /about/
 
 Ndingumntu! Ndizama ukwenza ngathi ikhona into endiyaziyo.
 
-Ndiyaxoka maan. Ndizama ukubhala, ukufunda kanye nokukhulu ngentla.
-Andithethi ngomzimba wangasentla. Ndithetha ngapha kwalonto. Ndithetha
-ngentloko. :bowtie:
+Andifani ndibhale ngesiXhosa. Yonke into ebhalwa apha yindlela yam yokuziphucula ekubhaleni kunye nokufunda lubanzi ngezinto endingazaziyo.
 
-Andifani ndibhale into ngesiXhosa, ngenxa yalo nto ngamanye amaxesha ndiziva
-ndiphulukana nolwimi lam. Yonke into ebhalwa apha yindlela yam yokuziphucula
-ekubhaleni kunye nokufunda lubanzi ngezinto endingazaziyo.
+Esi sivakalisi singentla siyenye into :)
+
+Ndingumfundi kwidjunivesithi yaseKapa. Le yi-blog yam. Ndibhala iingcinga
+zam ngamaphepha endiwafundayo, iincwadi endizifundayo kunye nezinye izinto endicinga ukuba zibalulekile.

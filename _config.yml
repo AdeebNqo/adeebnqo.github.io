@@ -1,19 +1,23 @@
-# Site settings
-title: Noob Academic
-description: >
-  Senza ingathi siyafunda. Ukuba nawe ufunda ukuba ngathi uyafunda,
+title:            Noob Academic
+description:      Senza ingathi siyafunda. Ukuba nawe ufunda ukuba ngathi uyafunda,
   ufikile apho ubhalele khona.
+url:              # Site url, without a slash at the end.
+signoff:          Zola Mahlaza.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: "UA-66155430-4" # set tracking, remove from /javascripts/basic.js if unwanted.
 
-author:
-  fullname: Zola Mahlaza
-  googleplus: https://www.google.com/+AdeebNqo
-  github: AdeebNqo
-  # disqus: your_disqus_username
-
-google_analytics: "UA-66155430-4"
-
-# Handling Reading
-exclude: ["README.md", "README.html"]
-
-# Build settings
-markdown: kramdown
+links:
+  - name:         About
+    url:          /about
+  - name:         Blog
+    url:          /
+  - name:         GitHub
+    url:          http://github.com/adeebnqo
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
