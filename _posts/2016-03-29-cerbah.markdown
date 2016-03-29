@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Part 1 : Cerbah"
+subtitle: "A Study of some Lexical Differences between French and English Instructions in a Multilingual Generation Framework by Farid Cerbah"
+date:   2016-03-29 17:15:00
+categories: [nlg, isiXhosa]
+---
+
+Sisenengxaki yokuba ingaba xa ufuna ukuqwalasela ii-grammar yeelwimi
+ezimbini wenza njani. Sisazama ukubonisa umehluko phakathi kwesiZulu
+kunye nesiXhosa. Ingxaki ekhoyo ngoku yinto yokuba ingaba silendele
+ntoni ifakwekwi-program yethu ukuba sizokuba ne-program. Enye yezinto
+kukuba ingaba silendele impendulo ibe yinto enjani? Ingaba izakuba
+linani okanye izakuba yintoni?
+
+
+Namhlanje sizakufunda iphepha elingazama, mhlawumbi, ukusinika ulwazi
+lokuba sizokuyenza njani le nto. Eli phepha libhalwa ngu-Farid Cerbah
+we-Dassault Aviation. Igama lalo leli lingentla.
+
+
+Eli phepha licacisa umsebenzi oqhutywe ngumbhali kwingxaki ye-lexicalization
+kwi-multilingual generation framework. Bazakujonga umehluko phakathi kwezenzi, bazakusebenzisa i-corpus enesiNgesi kunye nesiFrench. Umbhali udilishana
+nomehluko awubonileyo ngokunika indlela ye-lexicalization edilishana nomehluko
+lowo. Zikhona kodwa izinto ezohluke ngendlela ekucaca ukuba zizakudinga iindlela ezilungele ulwimi nganye. Umbhali uzakuthetha ngazo ekugqibeleni kwephepha.
+
+
+Ukukhupha iiphepha ezicacisa izinto ezi-technical yinto engabantle kwizifundo
+ze-text generation. Umbhali uthi sele edibene namaphepha e-NLG abonisayo ukuba zikhona izinto kwi-NLG ezingabangela sikwazi ukukhupha impepha ezikumgangatho ophezulu. Abantu abaninzi bajonge indlela yokwenza izixhobo ezikhupha iimpepha ngeelwimi ezininzi. Inkomponi ekuthiwa yi-Dassault Aviation kunye ne-British Aerospace zakha i-system eyaziwa ngokuba yi-GhostWriter. Into ebazama ukuyenza kukubonisa ukuba i-system ingakupha njani imibhalo ngesiNgesi kunye nangesiFrench, isuka kwi-representation yolwazi e-abstract. Oluhlobo lu-abstract lisuka kwi AI planning models.
+
+
+Ukwakhiwa kwe-system ekupha imibhalo ngelwimi ezininzi ayonto ilula. Kudingeka ukuqwalasele indlela ulwimi nganye ludilishana njani nezinto ezithile. Eliphepha lijonga umehluko phakathi kwezenzi zezilwimi zimbini.
+Kunjalo ngenxa yokuba umbhali ufuna ukwazi ukuba umehluko lo wenza ntoni
+kwi-sentence generator (ethiywe ngokuba yi-Glose) esetyenziswa yi-GhostWriter.
+
+
+#The sentence generator
+
+Ngoku sizoqala ngokujonga le-sentence generator. I-sentence realiser abayisebenzisayo yi-GLOSE. Yakhiwe nge-framework eyaziwa ngokuba yi Meaning-text theory (MTT). Kwi-computational linguistics, i-MTT isetyenziswa kwi-model zokwakha ulwimi. Kwi-framework yethu, MTT, into ezakukhutshwa yi-Deep syntactic representation (DSR). Lo ngumthi we-dependency, amasebe ane-lexemes kunye ne-lexical functions. Ezi lexical functions zisetyenziswa ekubonakaliseni iiSyntactico-semantic relations phakathi kwe-lexemes, ezi-relations zifana ne-synonymy, hyperonymy kunye nezinye. GLOSE isebenzisa iiMeaning-text models ezimbini, model nganye isebenzisa ngolwimi olunye.
+
+
+#The contrastive analysis
+
+I-corpus abasebenza nagyo ababhali ine-pairs ezingamashumi amathathu. I-corpus inamagama akwilwimi ezimbini. Le corpus yakhiwe ngokusebenzisa ii-manuals zokulungisa iinqwelo-moya. Umehluko phakathi kwesiNgesi kunye nesiFrench kwindlela ezivakala ngazo ubonakala ngendlela ezintathu:
+
+<center>
+	1. Lexical
+	2. Syntactic
+	3. Stylistic
+</center>
+
+Xa sijonga elinqaku lokuqala, iindlela esidilishana nazo ezilwimi zihlukile. Isizathu soku, yinto yokuba ii-lexemes esinazo zohlukile. Inqaku lesibini lidilishana
+nemeko apho izenzi zithetha into enye kwezilwimi kodwa zingasetyenziswa ngendlela enye. Inqaku lesithathu abakwazi ukulicacisa. Ayivakali tu le nto bayithethayo.
+
+Ababhali bafuna nokuveza ukuba zikhona izinto ezincinci ezingenza ingxaki. Umzekelo, kwi-corpus, izivakalisi zikwilwimi ezimbini kwaye zingacacisa into enye. Ingxaki yinto yokuba nangona zicacisa into enye, ziyakwazi ukwehluka kakhulu. Kumanye amaxesha, kubanzima ukwazi ukuba umbhali akayenzanga ngamabom lo nto. Ukuba uyenze ngamabom, ingaba i-NLG system kufuneka iyihloniphe lo nto?

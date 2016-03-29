@@ -6,7 +6,7 @@ date:   2016-03-21 18:00:00
 categories: [bookreview, isiXhosa]
 ---
 
-![Book cover](https://images-na.ssl-images-amazon.com/images/P/067974472X.jpg0)
+![Book cover](https://images-na.ssl-images-amazon.com/images/P/067974472X.jpg0)	
 
 Ndikhumbula kunyaka ogqithileyo ndidibana ne-post ku-Facebook ethetha
 ngokuba abantu abamnyama bambelele kukholo nangona lalusetyenziswa ekusicinezeleni. Iingcinga zam ngalento zazithe saa!
