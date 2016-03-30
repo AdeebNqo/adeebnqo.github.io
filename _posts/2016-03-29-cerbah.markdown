@@ -34,12 +34,12 @@ Kunjalo ngenxa yokuba umbhali ufuna ukwazi ukuba umehluko lo wenza ntoni
 kwi-sentence generator (ethiywe ngokuba yi-Glose) esetyenziswa yi-GhostWriter.
 
 
-#The sentence generator
+# The sentence generator
 
 Ngoku sizoqala ngokujonga le-sentence generator. I-sentence realiser abayisebenzisayo yi-GLOSE. Yakhiwe nge-framework eyaziwa ngokuba yi Meaning-text theory (MTT). Kwi-computational linguistics, i-MTT isetyenziswa kwi-model zokwakha ulwimi. Kwi-framework yethu, MTT, into ezakukhutshwa yi-Deep syntactic representation (DSR). Lo ngumthi we-dependency, amasebe ane-lexemes kunye ne-lexical functions. Ezi lexical functions zisetyenziswa ekubonakaliseni iiSyntactico-semantic relations phakathi kwe-lexemes, ezi-relations zifana ne-synonymy, hyperonymy kunye nezinye. GLOSE isebenzisa iiMeaning-text models ezimbini, model nganye isebenzisa ngolwimi olunye.
 
 
-#The contrastive analysis
+# The contrastive analysis
 
 I-corpus abasebenza nagyo ababhali ine-pairs ezingamashumi amathathu. I-corpus inamagama akwilwimi ezimbini. Le corpus yakhiwe ngokusebenzisa ii-manuals zokulungisa iinqwelo-moya. Umehluko phakathi kwesiNgesi kunye nesiFrench kwindlela ezivakala ngazo ubonakala ngendlela ezintathu:
 
