@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "S. Sripada, N Burnett, R. Turner, J. Mastin & D. Evans"
-subtitle: "A case study: NLG meeting weather industry demand for quality and quantity of textual weather forecasts"
+subtitle: "A case study: NLG meeting weather industry demand for quality and quantity of textual weather forecasts by S. Sripada, N Burnett, R. Turner, J. Mastin & D. Evans"
 date:   2016-04-01 17:00:00
 categories: [nlg, isiXhosa]
 ---
@@ -27,17 +27,20 @@ kukukhupha imibhalo emininzi ngexesha elifutshane. Umbuzo esinawo ngulo; ingaba 
 
 Le system yakhiwe ngababhali, yakhiwe beqwalasele izinto ezintlanu. Phambi kokuba siqhubekeke, kubalulekile ukuba sixele ukuba le system yakhiweyo ayizocaciswa ngokupheleleyo ukuba isebenza njani. Isizathu salonto yinto yokuba bayayithengisa le system kwaye abafuni ibiwe. Into abayithethileyo kodwa yinto yokuba isebenzisa i-Arria NLG Engine. Bathi le system ilandela amanyathelo amahlanu kwinkqubo ye data-to-text. Kuyafuneka ajongwe lamanyathelo ngoba kwiphepha lika-Reiter no-Ehud[2] amanyathelo adingekayo mathandathu, amawekho mahlanu. Zintathu intlobo zolwazi ngemoyezulu ezifakwa kule system:
 
-1. Ingcazelo zengqikelelo zemoyezulu. Izinto ezifana ne-temperature, wind speed ne-direction, visibility rhoqo ngeeyure ezintathu kunye ne-mvula.
-2. Average daily and nightly values yezizinto zingentla.
-3. Seasonal averages for temperature.
+	1. Ingcazelo zengqikelelo zemoyezulu. Izinto ezifana
+	 ne-temperature, wind speed ne-direction, visibility
+	 rhoqo ngeeyure ezintathu kunye ne-mvula.
+	2. Average daily and nightly values yezizinto zingentla.
+	3. Seasonal averages for temperature.
 
 Asilibelanga ukuba besithe kukho izinto ezintlanu ebebeziqwalasela ababhali ekwakheni le system.
 
-1. Ukucacisa ukuhla komngangatho weegqikelelo zeentsuku ezikude/ezilandelayo.
-2. Ukungabikho kwe-corpus
-3. Ukukhupha imibhalo yomgangatho ophezulu.
-4. Ukukhupha imibhalo emininzi.
-5. Ukwenza i-system engasetyenziswa kwihlabathi lonke.
+	1. Ukucacisa ukuhla komngangatho
+	weegqikelelo zeentsuku ezikude/ezilandelayo.
+	2. Ukungabikho kwe-corpus
+	3. Ukukhupha imibhalo yomgangatho ophezulu.
+	4. Ukukhupha imibhalo emininzi.
+	5. Ukwenza i-system engasetyenziswa kwihlabathi lonke.
 
 Kufuneka sikhe siqwalasele umsebenzi okanye ukubaluleka kwe-box plot. Eliphepha lifaka i-box plot kodwa ayongezi lwazi kweliphepha. Eyona nto ibalulekileyo ngokubona kwam kule case study kukwazi ukuba bawugcina njani umganatho wemibhalo. Umgangatho uhlolwa zingcali kunye nabantu abayikhatheleleyo imoyezulu. Ababhali bathi ukuba iingcali ezisuka e-Met office ziyavuma ukuba umgangqtho awuhlanga. Benze i-survey kwi-website ye-Met office befuna uluvo lwabantu abasebenzisa/abakhathelele imoyezulu. Bafumene uluvo lwabantu aba-35. Ingxaki endinayo ngale-survey yinto yokuba akukho nto ibonisayo ukuba ababantu bayiphenduleyo abazongcali eziphangela e-Met office. Iziphumo zale-survey zibonisa ukuba abantu bacinga ukuba umgangatho wale-survey awuhlanga kwaye isixa sombhalo nganye silungile. Umbuzo wale survey yabo kodwa uyigngxaki. Lo mbuzo uthi:
 
