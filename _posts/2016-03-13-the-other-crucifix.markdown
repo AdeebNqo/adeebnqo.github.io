@@ -4,6 +4,7 @@ title:  "Review : The Other Crucifix"
 subtitle: "The Other Crucifix: A Novel by Benjamin Kwakye"
 date:   2016-03-13 17:24:00
 categories: [bookreview, isiXhosa]
+share: y
 ---
 
 ![Book cover](https://kinnareads.files.wordpress.com/2010/11/the-other-crucifix.jpg?w=723)

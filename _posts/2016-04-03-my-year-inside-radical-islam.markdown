@@ -4,6 +4,7 @@ title:  "Review : My Year Inside Radical Islam: A Memoir"
 subtitle: "My Year Inside Radical Islam: A Memoir by Daveed Gartenstein-Ross"
 date:   2016-04-03 22:00:00
 categories: [bookreview, isiXhosa]
+share: y
 ---
 
 ![Book cover](http://ecx.images-amazon.com/images/I/41YNaTbMYrL.jpg)

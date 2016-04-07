@@ -4,6 +4,7 @@ title:  "Review : The Heart of Redness"
 subtitle: "The Heart of Redness by Zanemvula Kizito Mda"
 date:   2016-02-25 17:24:00
 categories: [bookreview, isiXhosa]
+share: y
 ---
 
 
