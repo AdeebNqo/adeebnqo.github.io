@@ -4,6 +4,7 @@ title:  "Review : The Fire Next Time"
 subtitle: "The Fire Next Time by  James Baldwin"
 date:   2016-03-21 18:00:00
 categories: [bookreview, isiXhosa]
+share: y
 ---
 
 ![Book cover](https://images-na.ssl-images-amazon.com/images/P/067974472X.jpg0)	
