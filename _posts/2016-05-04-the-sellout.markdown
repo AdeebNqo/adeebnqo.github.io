@@ -2,7 +2,7 @@
 layout: post
 title:  "Review : The Sellout"
 subtitle: "The Sellout by Paul Beatty "
-date:   2016-05-03 22:00:00
+date:   2016-05-04 22:00:00
 categories: [bookreview, isiXhosa]
 share: y
 ---
