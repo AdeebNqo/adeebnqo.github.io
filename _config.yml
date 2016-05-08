@@ -10,9 +10,9 @@ google_analytics: "UA-66155430-4" # set tracking, remove from /javascripts/basic
 links:
   - name:         About
     url:          /about
-  - name:         Blog
+  - name:         Posts
     url:          /
-  - name:         Reads
+  - name:         Books
     url:          /toread
   - name:         GitHub
     url:          http://github.com/adeebnqo
