@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Isizathu se corpus"
-subtitle: "Umsebenzi we-corpus kwi NLG system ngokutsho kuka Dale noReiter"
-date:   2016-05-16 18:45:00
+subtitle: "UMSEBENZI WE-CORPUS KWI NLG SYSTEM NGOKUTSHO KUKA DALE NOREITER"
+date:   2016-05-16 18:00:00
 categories: [nlg, isiXhosa]
 ---
 
@@ -15,11 +15,11 @@ Ababhali bathi kumatyeli amaninzi; lo mbhalo wabo uzokuthetha ngendlela yokwakha
 
 Ababhali bathi nangona kumacala ezifundo amaninzi, i-corpus yingqokelela yee-inputs zodwa. Kwi-NLG, kodwa, kunyanzelekile ukuba ihambe ne-outputs. Ababhali baveza umsebenzi ka McKeown et al[1] bona bazama ukubonisa indlela i-corpus ingasetyenziswa njani
 
-#Practical Issues in Automatic Documentation
+# Practical Issues in Automatic Documentation
 
 u-McKeown et al[1] bakha i-system enegama eliyi-PLANDoc. Umsebenzi wale system kukuthatha i-trace yomsebenzi wenjineli kwi-networking tool ikhuphe isishwankathelo esingangephepha elinye okanye amabini. I-corpus isetyenziswa ekuboneni ukuba izishwankathelo zibanjani. Ngamanye amazwi, i-corpus isetyenziswa ekufumaneni ukuba yintoni ekufuneka ibekho kumbhalo ozakukhutshwa yi-system. Enye into eyenza i-corpus ibaluleke kukuma kwezinto kwisishwankathelo.
 
-#Izivakalisi
+# Izivakalisi
 
 Into elandelayo emva kwalento siyithethileyo nge-corpus, yinto yokuba ingaba yenziwa ngesandla le nto yokuqwalasela amagama asetyenziswayo kwimizekeliso yemibhalo ekumele ukuba ikhutshwa yi-system. Xa siqwalasela i-corpus, kufuneka sikwazi ukuxela ukuba isivakalisi nganye singena kweyiphi i-category:
 
@@ -31,6 +31,6 @@ Into elandelayo emva kwalento siyithethileyo nge-corpus, yinto yokuba ingaba yen
 I-corpus ungayisebenzisa ngendlela ezininzi ekufumaneni ulwazi lombhalo ozakukhutshwa yi-system yakho.
 
 
-__References__
+References
 
 1. McKeown, K., Kukich, K. and Shaw, J., 1994, October. Practical issues in automatic documentation generation. In Proceedings of the fourth conference on Applied natural language processing (pp. 7-14). Association for Computational Linguistics.
