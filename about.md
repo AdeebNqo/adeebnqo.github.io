@@ -1,9 +1,11 @@
 ---
 layout: page
 title: About
-subtitle: Ingaba ndicinga ukuba ndingubani?
+subtitle: Iinkcukacha ngam
 permalink: /about/
+feature-img: "img/sample_feature_img_2.png"
 ---
+
 
 Ndingumntu! Ndizama ukwenza ngathi ikhona into endiyaziyo.
 

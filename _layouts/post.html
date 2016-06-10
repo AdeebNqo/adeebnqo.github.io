@@ -1,35 +1,42 @@
-<html>
-  <head>
-    <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
-  </head>
-  <body>
-    {% include header.html %}
-    <div id='container'>
-      {% include links.html %}
-      {% include pages.html %}
-      <div class="content">
-        <section class='post'>
-          <h1 class="upcase">
-            <div class='date'>{{ page.date | date_to_string }}</div>
-            {{ page.subtitle }}
-          </h1>
-          {{ content }}
-          {% include signoff.html %}
+---
+layout: default
+---
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
+  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+    <h1 class="title">{{ page.title }}</h1>
+    <p class="meta">
+    {{ page.date | date: "%B %-d, %Y" }}
+    {% if page.author %} - {{ page.author }}{% endif %}
+    </p>
+  </header>
+  <section class="post-content">{{ content }}</section>
+</article>
 
+<!-- Post navigation -->
+{% if site.theme.post_navigation %}
+<div id="post-nav">
+    {% if page.previous.url %}
+    <a id="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}">
+      <span class="page-title">{{ page.previous.title }}</span>
+      <span class="nav-label">
+        <i class="fa fa-chevron-left"></i> {{ site.theme.str_prev }}
+      </span>
+    </a>
+    {% endif %}
+    {% if page.next.url %}
+    <a id="next-post" href="{{ site.baseurl }}{{ page.next.url }}">
+       <span class="page-title">{{ page.next.title }}</span>
+       <span class="nav-label">
+        {{ site.theme.str_next }} <i class="fa fa-chevron-right"></i>
+       </span>
+     </a>
+    {% endif %}
+</div>
+{% endif %}
 
-        </section>
-      </div>
-      {% if page.share == 'y' %}
-        {% include share.html %}
-      {% endif %}
-
-      {% if page.disqus == 'y' %}
-        {% include disqus.html %}
-      {% endif %}
-      {% include links.html %}
-    </div>
-    {% include footer.html %}
-  </body>
-</html>
+<!-- Disqus -->
+{% if site.theme.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}
