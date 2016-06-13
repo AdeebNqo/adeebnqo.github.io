@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Isizathu se corpus"
-subtitle: "UMSEBENZI WE-CORPUS KWI NLG SYSTEM NGOKUTSHO KUKA DALE NOREITER"
+subtitle: "Umsebenzi we-corpus kwi-NLG system ngokutsho kuka Dale n-oReiter"
 date:   2016-05-16 18:00:00
 categories: [nlg, isiXhosa]
 ---
