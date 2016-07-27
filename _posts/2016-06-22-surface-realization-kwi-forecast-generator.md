@@ -2,7 +2,7 @@
 layout: post
 title:  "Surface realization kwi Forecast Generator (FOG)"
 subtitle: "Indlela i-surface realization eyenzwe ngayo kwi FOG"
-date:   2016-06-23 19:00:00
+date:   2016-06-22 19:00:00
 categories: [nlg, isiXhosa]
 ---
 
