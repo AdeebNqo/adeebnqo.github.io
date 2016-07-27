@@ -14,4 +14,4 @@ Ababhali bayosohlula kabini isiNdebele, banesaseMzantsi Afrika kunye nesaseZimba
 isizathu salonto. Into abayibeka phambili kodwa kukuba kuwo wonke umsebenzi oqwalasela iilwimi zesiNguni, akukho mntu oqwalasela i-morphology yezilwimi njenge morphology e-agglutinative hayi e-inflectional.
 
 
-Umntu ofuna ukulifunda banzi eliphepha, angalifumana kwi-Proceedings of the 23rd International Conference on Computational Linguistics (http://dl.acm.org/ft_gateway.cfm?id=1873896&type=pdf&CFID=804724947&CFTOKEN=97945668)
+Umntu ofuna ukulifunda banzi eliphepha, angalifumana kwi-Proceedings of the [23rd International Conference on Computational Linguistics](http://dl.acm.org/ft_gateway.cfm?id=1873896&type=pdf&CFID=804724947&CFTOKEN=97945668)
