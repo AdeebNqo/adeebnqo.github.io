@@ -1,74 +1,29 @@
-# SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+title: Noob Academic
+description: Writings from the guy reads random stuff
 
-# THEME-SPECIFIC CONFIGURATION
-theme:
-  # Meta
-  title: Noob Academic
-  avatar: avatar.png
-  gravatar: 1398c50ad82b6853c0db90c423697841 # Email MD5 hash
-  description: "A website with book reviews, noob academic papers summaries and other boring things." # used by search engines
+url: http://adeebnqo.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-  # Header and footer text
-  header_text: >
-     <p>Mholo</p>
-
-     <p>Rhabula apha, ungafinci! </p>
-  header_text_feature_image:
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
-  # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  github: "adeebnqo"
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: "nqongeveg"
-  wordpress:
-  youtube:
-
-  # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
-  katex: true # Enable if using math markup
-
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
-
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
-
-  # Post navigation
-  post_navigation: false
-
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
 gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Reading
+   url: /toread
+ - title: Contact
+   url: /contact
+
+social:
+   github: adeebnqo
+   twitter: nqongeveg
+   email: adeebnqo@gmail.com
+
+google_analytics: "UA-66155430-4"
