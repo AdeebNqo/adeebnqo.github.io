@@ -13,7 +13,7 @@ share: y
 > Because we were not in our country, we could not use our own languages, and so when we spoke our voices came out bruised.
 
 
-Le ncwadi kudala ndizimisele ukuyifunda. Ndiqale ukuva ngayo ngoku yayisandokuphuma, ndaqala ukuyifunda emva ndive lukhulu ngayo. Into embi yinto yokuba inoba ndafunda amaphepha amabalwa, ndavela ndayiyeka. Ndiye ndabuyela kuyo kulonyaka emva kokufunda ikota yencwadi ethetha [ngeZimbwabwe](https://www.goodreads.com/book/show/12356259-zimbabwe-s-land-reform).
+Le ncwadi kudala ndizimisele ukuyifunda. Ndiqale ukuva ngayo ngoku yayisandokuphuma, ndaqala ukuyifunda emva ndive lukhulu ngayo. Into embi yinto yokuba inoba ndafunda amaphepha ambalwa, ndavela ndayiyeka. Ndiye ndabuyela kuyo kodwa kulonyaka emva kokufunda ikota yencwadi enobunzinyana ethetha [ngeZimbabwe](https://www.goodreads.com/book/show/12356259-zimbabwe-s-land-reform).
 
 Umdla wam malunga neZim uye wanda emva kwalancwadi. Kulonyaka ndiyendazixelela ukuba ndayifuna ukwazi ukuba uNoviolet uthini. Andizisoli tu ngoba yenye yencwadi endingasoze ndiyilibale le. Indothusile inzalwano phakathi kobomi babantu baseZimbabwe kunye noMzantsi Afrika. Ukuqala kulwamano phakathi kwabantu babamabala ahlukileyo, ukuya kwiingoma, indlela abazali abathetha ngayo, kunye nezinye. Andiyazi ukuba kutheni bendicinga ezindawo zahluke kakhulu - bubudenge bam mhlawumbi. 
 
