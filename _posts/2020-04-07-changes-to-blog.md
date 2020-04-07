@@ -9,7 +9,7 @@ share: y
 
 # Intro
 
-Ngoku ndandisenza iimasters ndandithanda ukubhala ngamaphepha endiwafundayo (umz. [Review yephepha loo-van Deemter et al.](https://adeebnqo.github.io/blog/squibs-and-discussions/)). Andiqondi kodwa ukuba ukhona umntu owakhe wafunda eza post. Ndiyithethaswa le nto yinto nyokuba oko ndabhala, inye qha ipost eyakhe ndava abantu (ewe --- abantu, hayi umntu omnye). Lo post yayi review yam yencwadi ka Sis'Noviolet Bulawayo. Mhlawumbi isizathu sale nto yinto yokuba akukho umntu ofuna ukubhorwa ngee reviews zamaphepha angayaziyo nokuba angena phi. Ngenxa yesosizathu, kuzakubakho utshintsho kule blog!
+Ngoku ndandisenza iimasters ndandithanda ukubhala ngamaphepha endiwafundayo (umz. [Review yephepha loo-van Deemter et al.](https://adeebnqo.github.io/blog/squibs-and-discussions/)). Andiqondi kodwa ukuba ukhona umntu owakhe wafunda eza post. Ndiyithethiswa le nto yinto yokuba oko ndabhala kule blog, kodwa inye qha ipost eyakhe ndava abantu (ewe --- abantu, hayi umntu omnye) bendibuza ngayo. Lo post yayi review yam yencwadi ka Sis'Noviolet Bulawayo. Mhlawumbi isizathu sale nto yinto yokuba akukho umntu ofuna ukubhorwa ngee reviews zamaphepha angayaziyo nokuba angena phi. Ngenxa yesosizathu, kuzakubakho utshintsho kule blog!
 
 # Into ebendiyenza
 
