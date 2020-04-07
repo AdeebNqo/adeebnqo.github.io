@@ -27,6 +27,6 @@ Ukuqala namhlanje, ndiyayivusa le blog. Ndifuna ukubhala ngezinto ezingaphucula 
 - Simulations models ezingasetyenziswa ukusombulula iingxaki endizibonayo kwindawo endizihambayo
 - nezinye!
 
-Ngaske kube ukufunda izinto endizakuzibhala.
+Ndiyathemba ukuba izinto endizakuzibhala zizakubaluncedo.
 
 Enkosi.
