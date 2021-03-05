@@ -16,12 +16,12 @@ Kukho into endiyiqapheleyo kodwa ekufikeni edjunivesithi: amanani wabafundi ekla
 
 Mna, xa ndijonga abafundi eklasini ndibona ingathi ukuba ungabeka kwingqokelela ezintathu: abangenangxaki yokuthetha okanye ukubuza (ngqokelela yokuqala), abafunayo ukuthetha okanye ubuza --- umntu angathetha ngamaxesha athile (ngqokelela yesibini), aboyikayo ukubuza okanye ukuthetha --- aba bangathetha xa bengekho abanye abafundi (ngqokelela yesithathu). Le nto ivusa imibuzo emibini xa unikezela ingxelo kubafundi ngokubona kwam:
 
-	1. Aba bakwingqokelala 1+2, ubangcina njani bekulangqokelela?
-	2. Aba bakwingqokelela 3, uzisusa njani intloni ukwenzela bafane naba bakwezinye ingqokelela? Ukuba awukwazi ukubatshintsha, ubaxhasa njani?
+1. Aba bakwingqokelala 1+2, ubangcina njani bekulangqokelela?
+2. Aba bakwingqokelela 3, uzisusa njani intloni ukwenzela bafane naba bakwezinye ingqokelela? Ukuba awukwazi ukubatshintsha, ubaxhasa njani?
 
 Mna ndisebenzisa indlela ezixhomekeke kwi-theories ezixhaphakileyo. Ngenxa yokuba icala lam lophando yi [NLG](https://en.wikipedia.org/wiki/Natural-language_generation), ndizakuthetha ngazo ezi theory ndisebenzisa iNLG. Xa sijonga ezi theory zisetyenziswa ngabantu abakha iiNLG sistim zokwakha iingxelo, sibona intlobo ngentlobo zezinto kufuneka uzikwaqalasele. Ezi NLG sistim zakhiwa ngabantu zinentlobo ezintathu; kukho ezakhiwa ngumntu ofuna ukunikela iingxelo kubafunda abenza itutorial (e.g., Moore et al. 2004), ezineka ingxelo mayela nendlela umfundi enza ngayo kwi nto ethile (e.g., Williams and Reiter 2005 banikeza indlela abafunda+bhala ngayo), nezinekeza ingxelo mayela nento oyenza qho (e.g., Braun and Reiter 2018 banikezela iingxelo mayela nendlela aqhuba ngayo umntu). Ukhona nomsebenzi owenzwa ngabanye abantu kwelicala. Le nto ithi, xa usakha iqhinga lakho, kufuneka uyazi ukuba ungaxhomekeka ngee theory ezingafaniyo --- yonke ixhomekeke kwiimeko ozibonayo ukuyo.
 
-(Possible architecture)[https://raw.githubusercontent.com/AdeebNqo/adeebnqo.github.io/master/_posts/img/RoughDraft.png]
+(Possible architecture)[https://people.cs.uct.ac.za/~zmahlaza/site/img/RoughDraft.png]
 
 Kuleveki, bendiqala ukufundisa icourse kwi [Compilers](https://en.wikipedia.org/wiki/Compiler), bendisebenzisa ezi theory xa ndisakha impendulo. Umqweno wam kukwenza lula ukubuza imibuzo eklasini, ukwakha impendulo ezicacilyo, etc. ukwenzela wonke umntu ayive le nto ifundiswayo. Into endizibuza yona kodwa ngoku kukuba ingaba ndingayimejarisha njani intsebenzo (see [efficacy](https://en.wikipedia.org/wiki/Efficacy)) yendlela endiqhuba ngayo? Ngokubona kwam, soze ndiyazi ukuba kukho into efuna utshintshwa ngaphandle kokuba ndiyakwazi ukumejarisha. Ngaphezulu koko, ukuba ndinendlela yokumejarisha, ndingaqala ukwakha iiNLG sistim ukwenzela umsebenzi ube lula. Ndingathelekisa neeNLG sistim ezimbini (ukuba ndinexesha yokwakha ezininzi), e.g., enye ingaphendula ngeseSotho vs. ephendule ngesiNgesi.
 
