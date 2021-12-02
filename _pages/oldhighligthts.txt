@@ -1,0 +1,4 @@
+[Won the Entelect 2019 Best Postgraduate Publication Award for paper on grammar-infused templates meant to cater for less-resources languages with complex grammar](https://twitter.com/nqongeveg/status/1187376181311610880)
+[Supervised Hons. students working on comparing data-driven and template-based methods for data-to-text generation](http://projects.cs.uct.ac.za/honsproj/cgi-bin/view/2019/dunn_poulter.zip/)
+[Created a CNL and accompanying editing tool to support competency question authoring](https://arxiv.org/abs/1907.07378)
+[Paper based on Masters work presented at SAICSIT'18](https://dl.acm.org/citation.cfm?id=3278690)
