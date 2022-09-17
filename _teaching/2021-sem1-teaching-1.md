@@ -8,4 +8,4 @@ date: 2021-03-01
 location: "Cape Town, South Africa"
 ---
 
-This course will introduce students to the inner mechanics of a modern programming language compiler or interpreter. Students will learn to appreciate why programming languages are designed in particular ways and they will learn how to develop compilers and compiler-related tools. Course content will include: language classes, formal grammars, parsing, and, time permitting, abstract syntax trees.
+This course introduced students to the inner mechanics of a modern programming language compiler or interpreter. Students learnt to appreciate why programming languages are designed in particular ways, how to develop compilers and compiler-related tools. Course content included: language classes, formal grammars, parsing, and abstract syntax trees.
