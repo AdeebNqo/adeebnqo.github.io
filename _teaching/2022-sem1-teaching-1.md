@@ -4,7 +4,7 @@ collection: teaching
 type: "Third year course"
 permalink: /teaching/2022-sem1-teaching-1
 venue: "University of Pretoria, Department of Informatics"
-date: 2022-01-01
+date: 2022-02-01
 location: "Pretoria, South Africa"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Second year course"
 permalink: /teaching/2021-sem2-teaching-1
 venue: "University of Pretoria, Department of Informatics"
-date: 2021-07-01
+date: 2022-02-01
 location: "Pretoria, South Africa"
 ---
 
