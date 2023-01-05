@@ -10,7 +10,7 @@ redirect_from:
 
 Computer Scientist.
 
-I did my PhD at the Computer Science department, [UCT](http://www.uct.ac.za/) with Assoc.Prof. Keet's [KnowledgE ENgineering (KEEN)](http://www.meteck.org/keen/index.html) team. My current research focus is on [natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation") for [Nguni languages](ht tps://en.wikipedia.org/wiki/Nguni_languages). I am interested in conceptual modelling and human language technologies.
+I did my PhD at the Computer Science department, [UCT](http://www.uct.ac.za/) with Assoc.Prof. Keet's [KnowledgE ENgineering (KEEN)](http://www.meteck.org/keen/index.html) team. My current research is in [natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation") for [Nguni languages](ht tps://en.wikipedia.org/wiki/Nguni_languages). I am also interested in conceptual modelling and human language technologies.
 
 ## Recent highlights:
 
