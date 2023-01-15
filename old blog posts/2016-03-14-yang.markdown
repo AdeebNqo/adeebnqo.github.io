@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Part 1 : Wang"
+subtitle: "A Formal Syntax of Natural Languages and the Deductive Grammar by Yingxu Wang"
+date:   2016-03-14 16:00:00
+categories: [nlg, isiXhosa]
+---
+
+Eliphepha lisinika 	i-formal syntax framework yelwimi zabantu. Lizokucacisa
+ii-abstract syntax kunye nendlela ezisetyenziswa ngayo. I-linguistics licala lezifundo apho kuzanywa ukwazi ukuba iilwimi zabantu zisebenza njani. Iilwimi ziintetho kunye nemibhalo yengcinga. Ii-linguists ezininzi ziyavumelana ukuba ikhona i-universal grammar -- indlela efanayo ndawu yonke yokubonisa ulwimi. Nangona kunjalo, ii-grammar zicacisa ngokupheleleyo iilwimi ezi formal. Ezi zilwimi ezifana neze-programming. Ii-grammar aziwuchani ncam ucwete xa zidilishana nelwimi zabantu.
+
+Nangona izivakalisi zakhiwa ngendlela ethile, ngamanye amazwi, igama lilandela elinye. Iilwimi zinento ekuthiwa yi-metalinguistic ability. Le
+nto ithetha ngokukwazi ukwakha amagama athetha ngamanye amagama elwimini.
+
+Ngoku sizakuthetha nge-formal syntactic model yeelwimi zabantu. Imithetho yelwimi mininzi kwaye isinika into yokuhlalutya kwi-formal linguistics. Eyona framework yaziwa kakhulu, ithiywe ngokuba yi-universal grammar (UG).
+Yayize no-Noam Chomsky. I-syntax licala apho  sifunda indlela izivakalisi ezima ngayo. Ezizifundo ziphantsi kwi-linguistics. I-abstract syntax yona
+iphantse yafana ne-syntax, umehluko omkhulu yinto yokuba i-abstract. Ngamanye amazwi, ayithethi ngezivakalisi ezithile, ithetha ngentlobo yezivakalisi. Kuzo zonke iilwimi, umntu uyakwazi ukwakha umthi obanakalisa
+i-schema sezivakalisi kwelo lwimi.
+
+Uninzi lweliphepha luthetha ngezinto esingazidingiyo.
