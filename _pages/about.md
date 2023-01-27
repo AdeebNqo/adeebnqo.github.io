@@ -17,7 +17,7 @@ I did my PhD at the Computer Science department @ [UCT](http://www.uct.ac.za/) w
 - [Graduated from CS@UCT -- thesis titled "Foundations for reusable and maintainable surface realisers for isiXhosa and isiZulu"](/files/Thesis.pdf)
 - [Published a journal article (ACM TALLIP) on an architecture for surface realisers created for low-resourced langs](https://dl.acm.org/doi/abs/10.1145/3567594) 
 - [Contributed to running a tutorial on ontology verbalisation at JOWO2022](http://www.meteck.org/MoReNL/NLGOntologiesTutorialJOWO22.html)
-- [Presented a long paper on creating an automated assistant for high school maths education at SACLA2022](https://link.springer.com/chapter/10.1007/978-3-031-21076-1_3)
+- [Presented a long paper on creating an automated assistant for high school maths education at SACLA2022](files/SACLA2022 proof.pdf)
 - [The ToCT task ontology for capturing complex templates was published at JOWO 2021](http://ceur-ws.org/Vol-2969/paper40-FoisShowCase.pdf)
 
 
