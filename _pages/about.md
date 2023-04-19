@@ -10,7 +10,7 @@ redirect_from:
 
 Computer Scientist.
 
-My current research is in [natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation") for [Nguni languages](ht tps://en.wikipedia.org/wiki/Nguni_languages). I am also interested in conceptual modelling and human language technologies.
+My current research is in [natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation") for [African languages](https://en.wikipedia.org/wiki/Languages_of_Africa). I am also interested in conceptual modelling, knowledge engineering, and human language technologies.
 
 ## Recent highlights:
 
