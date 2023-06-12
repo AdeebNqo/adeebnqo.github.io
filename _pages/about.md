@@ -10,7 +10,7 @@ redirect_from:
 
 Computer Scientist.
 
-My current research is in [natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation") for [African languages](https://en.wikipedia.org/wiki/Languages_of_Africa). I am also interested in conceptual modelling, knowledge engineering, and human language technologies.
+My current research is in [natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) for [African languages](https://en.wikipedia.org/wiki/Languages_of_Africa). I am also interested in conceptual modelling, knowledge engineering, and human language technologies.
 
 ## Recent highlights:
 
@@ -23,7 +23,7 @@ My current research is in [natural language generation](https://en.wikipedia.org
 
 ## Service:
 
-- 2023: [ACM CHI Conference on Human Factors in Computing Systems](https://chi2023.acm.org/), [IEEE Transactions on Education ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13), [South African Computer Journal](https://sacj.cs.uct.ac.za/), [Local chair @ Compass 2023](https://compass.acm.org/)
+- 2023: [ACM CHI Conference on Human Factors in Computing Systems](https://chi2023.acm.org/), [IEEE Transactions on Education ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13), [South African Computer Journal](https://sacj.cs.uct.ac.za/), [Local chair @ Compass 2023](https://compass.acm.org/), [The 22nd International Semantic Web Conference](https://iswc2023.semanticweb.org/)
 - 2022: [The 21st International Semantic Web Conference](https://iswc2022.semanticweb.org/), [ACM CHI Conference on Human Factors in Computing Systems](https://chi2022.acm.org/), [The 13th International Conference on Language Resources and Evaluation](https://lrec2022.lrec-conf.org/en/), [Southern African Artificial Intelligence Conference: Artificial Intelligence for Science, Technology and Society](https://2021.sacair.org.za/), [Applied ontology](https://www.iospress.com/catalog/journals/applied-ontology)
 - 2021: [Progress in Artificial Intelligence](https://www.springer.com/journal/13748/), [14th International Conference on Natural Language Generation](https://inlg2021.github.io), [Southern African Artificial Intelligence Conference: Artificial Intelligence for Science, Technology and Society](https://2021.sacair.org.za/)
 
