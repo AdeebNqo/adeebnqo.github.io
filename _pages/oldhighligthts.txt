@@ -1,3 +1,5 @@
+[Contributed to running a tutorial on ontology verbalisation at JOWO2022](http://www.meteck.org/MoReNL/NLGOntologiesTutorialJOWO22.html)
+[Presented a long paper on creating an automated assistant for high school maths education at SACLA2022](files/SACLA2022 proof.pdf)
 [The ToCT task ontology for capturing complex templates was published at JOWO 2021](http://ceur-ws.org/Vol-2969/paper40-FoisShowCase.pdf)
 [We investigated the association between various types of NLG errors and low human judgements of naturalness and quality for machine learning vs. template generated texts](https://arxiv.org/abs/2106.14613)
 [Published a journal article on the formalisation of "grammar-infused templates": they can be used to verbalise ontologies and similar artefacts](https://people.cs.uct.ac.za/~zmahlaza/preprints/ijmso2020preprint.pdf)
