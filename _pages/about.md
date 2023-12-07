@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zola Mahlaza"
+title: "Zola Mahlaza, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
