@@ -13,7 +13,7 @@ My current research is in [natural language generation](https://en.wikipedia.org
 
 ## Recent highlights:
 
-- [Our paper on automatically extracting phonological conditioning rules accepted at DHASA2023](https://dh2023.digitalhumanities.org.za/schedule/)
+- [Our paper on automatically extracting phonological conditioning rules presented at DHASA2023](https://www.upjournals.up.ac.za/index.php/dhasa/article/view/5013)
 - [We presented our paper, part of the 'Enterprise Medical Imaging in Zambia' project, at MTSR2023](http://www.mtsr-conf.org/programme)
 - [We received a distinguished paper award at FOIS 2023](https://sit.uct.ac.za/articles/2023-07-30-distinguished-paper-award-fois2023-conference)
 - [Graduated from CS@UCT -- thesis titled "Foundations for reusable and maintainable surface realisers for isiXhosa and isiZulu"](/files/Thesis.pdf)
