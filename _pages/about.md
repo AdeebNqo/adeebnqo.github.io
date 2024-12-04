@@ -13,11 +13,13 @@ My current research is in [natural language generation](https://en.wikipedia.org
 
 ## Recent highlights:
 
-- [Our paper on automatically extracting phonological conditioning rules presented at DHASA2023](https://www.upjournals.up.ac.za/index.php/dhasa/article/view/5013)
+- [We created algorithms for verbalising numbers in isiZulu + created a novel dataset. Work was presented @ the 17th INLG](https://aclanthology.org/2024.inlg-main.21/)
+- [We replicated Gabriel et al.'s work as part of HumEval @ LREC-COLING 2024](https://aclanthology.org/2024.humeval-1.26/)
+- [Our paper on automatically extracting phonological conditioning rules was presented at DHASA2023](https://www.upjournals.up.ac.za/index.php/dhasa/article/view/5013)
 - [We presented our paper, part of the 'Enterprise Medical Imaging in Zambia' project, at MTSR2023](http://www.mtsr-conf.org/programme)
 - [We received a distinguished paper award at FOIS 2023](https://sit.uct.ac.za/articles/2023-07-30-distinguished-paper-award-fois2023-conference)
-- [Graduated from CS@UCT -- thesis titled "Foundations for reusable and maintainable surface realisers for isiXhosa and isiZulu"](/files/Thesis.pdf)
-- [Published a journal article (ACM TALLIP) on an architecture for surface realisers created for low-resourced langs](https://dl.acm.org/doi/abs/10.1145/3567594) 
+
+
 
 
 ## Service:
