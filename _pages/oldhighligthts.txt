@@ -1,5 +1,6 @@
 highlights
 
+[We received a distinguished paper award at FOIS 2023](https://sit.uct.ac.za/articles/2023-07-30-distinguished-paper-award-fois2023-conference)
 [Graduated from CS@UCT -- thesis titled "Foundations for reusable and maintainable surface realisers for isiXhosa and isiZulu"](/files/Thesis.pdf)
 [Published a journal article (ACM TALLIP) on an architecture for surface realisers created for low-resourced langs](https://dl.acm.org/doi/abs/10.1145/3567594) 
 [Contributed to running a tutorial on ontology verbalisation at JOWO2022](http://www.meteck.org/MoReNL/NLGOntologiesTutorialJOWO22.html)
