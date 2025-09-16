@@ -1,4 +1,11 @@
-# Musings: Noun classification and sadilar data
+---
+layout: post
+title:  "Musings on noun classification"
+subtitle: "FNoun classification and sadilar data"
+date:   2025-09-16 13:46:00
+categories: [hlt, nguni]
+---
+
 
 Noun classification is a significant aspect of the grammar of Niger-Congo B languages. For people who are interested in learning a language that belongs to the family, you need to understand that the phenomena is one of the most important things to master since it is crucial to ensure that words agree with each other, where appropriate, in the formation of sentences. For instance, the isiXhosa sentence "hlamba izitya ngoba zimdaka!" (Wash the dishes because they are dirty) is sensible while the sentence "hlamba izitya ngoba simdaka" (Wash the dishes because it is dirty) is not correct despite the minor difference in the isiXhosa source text. There are a variety of resources that one can find online to learn the notion of noun classes (e.g., https://quizlet.com/za/887926330/zulu-noun-classes-flash-cards/). To the best of my knowledge, these are manually created!
 
