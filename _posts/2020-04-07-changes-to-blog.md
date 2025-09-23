@@ -3,8 +3,8 @@
 title:  "Changes to the blog."
 subtitle: "Creating a useful blog"
 date:   2020-04-07 16:00:00
-#categories: [isiXhosa]
-share: y
+categories: [isiXhosa]
+#share: y
 ---
 
 Ngoku ndandisenza iimasters ndandithanda ukubhala ngamaphepha endiwafundayo (umz. [Review yephepha loo-van Deemter et al.](https://adeebnqo.github.io/blog/squibs-and-discussions/)).

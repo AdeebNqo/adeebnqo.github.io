@@ -3,7 +3,7 @@
 title:  "Musings on noun classification"
 subtitle: "FNoun classification and sadilar data"
 date:   2025-09-16 13:46:00
-#categories: [hlt, nguni]
+categories: [hlt, nguni]
 ---
 
 
