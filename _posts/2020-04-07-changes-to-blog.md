@@ -4,6 +4,7 @@ title:  "Changes to the blog."
 subtitle: "Creating a useful blog"
 date:   2020-04-07 16:00:00
 categories: [isiXhosa]
+permalink: /post/2020-changes
 #share: y
 ---
 

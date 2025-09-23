@@ -4,6 +4,7 @@ title:  "On providing feedback to students"
 subtitle: "Feedback NLG systems as a means of supporting classroom interactions"
 date:   2021-03-05 13:00:00
 categories: [nlg, isiXhosa]
+permalink: /post/2021-feedback
 ---
 
 Enye yezinto endinomdla ngazo zii-theory zokwakha nokunikezela iingxelo kubafundi bakho.
