@@ -1,13 +1,15 @@
 ---
-layout: post
+#layout: post
 title:  "Musings on noun classification"
 subtitle: "FNoun classification and sadilar data"
 date:   2025-09-16 13:46:00
-categories: [hlt, nguni]
+#categories: [hlt, nguni]
 ---
 
 
-Noun classification is a significant aspect of the grammar of Niger-Congo B languages. For people who are interested in learning a language that belongs to the family, you need to understand that the phenomena is one of the most important things to master since it is crucial to ensure that words agree with each other, where appropriate, in the formation of sentences. For instance, the isiXhosa sentence "hlamba izitya ngoba zimdaka!" (Wash the dishes because they are dirty) is sensible while the sentence "hlamba izitya ngoba simdaka" (Wash the dishes because it is dirty) is not correct despite the minor difference in the isiXhosa source text. There are a variety of resources that one can find online to learn the notion of noun classes (e.g., https://quizlet.com/za/887926330/zulu-noun-classes-flash-cards/). To the best of my knowledge, these are manually created!
+Noun classification is a significant aspect of the grammar of Niger-Congo B languages.
+
+For people who are interested in learning a language that belongs to the family, you need to understand that the phenomena is one of the most important things to master since it is crucial to ensure that words agree with each other, where appropriate, in the formation of sentences. For instance, the isiXhosa sentence "hlamba izitya ngoba zimdaka!" (Wash the dishes because they are dirty) is sensible while the sentence "hlamba izitya ngoba simdaka" (Wash the dishes because it is dirty) is not correct despite the minor difference in the isiXhosa source text. There are a variety of resources that one can find online to learn the notion of noun classes (e.g., https://quizlet.com/za/887926330/zulu-noun-classes-flash-cards/). To the best of my knowledge, these are manually created!
 
 ## Existing work
 
@@ -25,19 +27,28 @@ A significant challenge with working with the aforementioned dataset is identify
 |   | Train size  |  Valid size | Test size  |
 |---|---|---|---|
 | IsiZulu  | 702  | 180  | 121  |
-| IsiXhosa  | 843  | 217  | 145  |   |
-| IsiNdebele  | 765  | 196  | 132  |   |
-| siSwati  | 323  | 83  | 56  |   |
+| IsiXhosa  | 843  | 217  | 145  |
+| IsiNdebele  | 765  | 196  | 132  |
+| siSwati  | 323  | 83  | 56  |
+
+The distribution of the nouns per class is given below:
+
+IsiNdebele             |  siSwati
+:-------------------------:|:-------------------------:
+![](/images/nr-nc.png)  |  ![](/images/ss-nc.png)
 
 
+IsiXhosa             |  IsiZulu
+:-------------------------:|:-------------------------:
+![](/images/xh-nc.png)  |  ![](/images/zu-nc.png)
 
 Let each noun be represented by an input vector, obtained by tokenising the strings using Nguni-XLMR-large (Meyer, 2024). We trained a simple MLP using the dataset to obtain a multilingual model to cater for all four Nguni languages. The performance of the model is given in the table below:
 
 
-|   | Prec | Rec  | F1  |   |
+|   | Prec | Rec  | F1  |
 |---|---|---|---|---|
-| Micro  | 0.11  | 0.11  | 0.11  |   |
-| Macro  | 0.03  |  0.10 | 0.05  |   |
+| Micro  | 0.11  | 0.11  | 0.11  |
+| Macro  | 0.03  |  0.10 | 0.05  |
 
 
 This performance is disappointing. In fact, the issue is not that we are relying on a simple model since we’ve also tried relying on Nguni-XLMR-Large and the results are equally disappointing. The issue is the dataset! 

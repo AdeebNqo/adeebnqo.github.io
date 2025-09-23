@@ -1,12 +1,14 @@
 ---
-layout: post
+#layout: post
 title:  "On providing feedback to students"
 subtitle: "Feedback NLG systems as a means of supporting classroom interactions"
 date:   2021-03-05 13:00:00
-categories: [nlg, isiXhosa]
+#categories: [nlg, isiXhosa]
 ---
 
-Enye yezinto endinomdla ngazo zii-theory zokwakha nokunikezela iingxelo kubafundi bakho. Emaxesheni amaninzi xa ufundisa, uye wakhe iingxaki okanye uzithathe kwincwadi onayo, uzenze kunye nabafundi bakho eklasini. Ngoku ndandifunda kubamanga abantsi, ootishala babesenza le nto amaxesheni amaninzi (ayekhona amaxesha apho kulindeleke ingxaki uyisombulule ngowakho njengomfundi). Eyona nto ndiyikhumbulayo ngelixesha kukuba kwakulula kwaye kumnandi ukuzama ukusombulula ezo ngxaki, eklasini ninonke kunye notishala. Kwaye, le nto yayinjalo kuzo zonke izifundo, ukuqala kwisiXhosa (e.g., xa sihlalutya imibongo umzekelo) ukuya kwiMathematika.
+Enye yezinto endinomdla ngazo zii-theory zokwakha nokunikezela iingxelo kubafundi bakho.
+
+Emaxesheni amaninzi xa ufundisa, uye wakhe iingxaki okanye uzithathe kwincwadi onayo, uzenze kunye nabafundi bakho eklasini. Ngoku ndandifunda kubamanga abantsi, ootishala babesenza le nto amaxesheni amaninzi (ayekhona amaxesha apho kulindeleke ingxaki uyisombulule ngowakho njengomfundi). Eyona nto ndiyikhumbulayo ngelixesha kukuba kwakulula kwaye kumnandi ukuzama ukusombulula ezo ngxaki, eklasini ninonke kunye notishala. Kwaye, le nto yayinjalo kuzo zonke izifundo, ukuqala kwisiXhosa (e.g., xa sihlalutya imibongo umzekelo) ukuya kwiMathematika.
 
 ![Class participation](https://image.shutterstock.com/image-vector/questions-concept-flat-tiny-person-600w-1627675000.jpg)
 

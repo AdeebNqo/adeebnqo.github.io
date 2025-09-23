@@ -1,15 +1,15 @@
 ---
-layout: post
+#layout: post
 title:  "Changes to the blog."
 subtitle: "Creating a useful blog"
 date:   2020-04-07 16:00:00
-categories: [isiXhosa]
+#categories: [isiXhosa]
 share: y
 ---
 
-# Intro
+Ngoku ndandisenza iimasters ndandithanda ukubhala ngamaphepha endiwafundayo (umz. [Review yephepha loo-van Deemter et al.](https://adeebnqo.github.io/blog/squibs-and-discussions/)).
 
-Ngoku ndandisenza iimasters ndandithanda ukubhala ngamaphepha endiwafundayo (umz. [Review yephepha loo-van Deemter et al.](https://adeebnqo.github.io/blog/squibs-and-discussions/)). Andiqondi kodwa ukuba ukhona umntu owakhe wafunda eza post. Ndiyithethiswa le nto yinto yokuba oko ndabhala kule blog, kodwa inye qha ipost eyakhe ndava abantu (ewe --- abantu, hayi umntu omnye) bendibuza ngayo. Lo post yayi review yam yencwadi ka Sis'Noviolet Bulawayo. Mhlawumbi isizathu sale nto yinto yokuba akukho umntu ofuna ukubhorwa ngee reviews zamaphepha angayaziyo nokuba angena phi. Ngenxa yesosizathu, kuzakubakho utshintsho kule blog!
+Andiqondi kodwa ukuba ukhona umntu owakhe wafunda eza post. Ndiyithethiswa le nto yinto yokuba oko ndabhala kule blog, kodwa inye qha ipost eyakhe ndava abantu (ewe --- abantu, hayi umntu omnye) bendibuza ngayo. Lo post yayi review yam yencwadi ka Sis'Noviolet Bulawayo. Mhlawumbi isizathu sale nto yinto yokuba akukho umntu ofuna ukubhorwa ngee reviews zamaphepha angayaziyo nokuba angena phi. Ngenxa yesosizathu, kuzakubakho utshintsho kule blog!
 
 # Into ebendiyenza
 
