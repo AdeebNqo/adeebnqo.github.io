@@ -1,0 +1,119 @@
+---
+layout: default
+---
+{% comment %}
+  Publication page layout, modelled after the academic project page template at
+  https://github.com/RomanHauksson/academic-project-astro-template
+  (title + author/venue block, link buttons, abstract band, body content, BibTeX/citation box)
+{% endcomment %}
+{% include base_path %}
+
+{% assign pub_title = page.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% assign cover_image = page.cover | default: page.header.teaser %}
+
+<div id="main" role="main">
+  <article class="pub" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <meta itemprop="headline" content="{{ pub_title | strip_html | strip_newlines | escape_once }}">
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+
+    <header class="pub-header{% if cover_image %} pub-header--cover{% endif %}"
+      {% if cover_image %}style="background-image: url('{% if cover_image contains "://" %}{{ cover_image }}{% else %}{{ cover_image | prepend: "/images/" | prepend: base_path }}{% endif %}');"{% endif %}>
+      {% if cover_image %}<div class="pub-header__scrim"></div>{% endif %}
+
+      <div class="pub-header__inner">
+        <h1 class="pub-header__title" itemprop="name">{{ pub_title }}</h1>
+
+        {% if page.authors %}
+          <div class="pub-authors">
+            {% for author in page.authors %}
+              <div class="pub-authors__item">
+                {% if author.url %}<a href="{{ author.url }}">{{ author.name }}</a>{% else %}<span>{{ author.name }}</span>{% endif %}{% if author.note %}<sup>{{ author.note }}</sup>{% endif %}
+                {% if author.institution %}<div class="pub-authors__institution">{{ author.institution }}</div>{% endif %}
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.venue or page.date %}
+          <div class="pub-venue">
+            {% if page.venue %}{{ page.venue }}{% endif %}{% if page.venue and page.date %}, {% endif %}{% if page.date %}{{ page.date | date: "%Y" }}{% endif %}
+          </div>
+        {% endif %}
+
+        {% if page.notes %}
+          <div class="pub-notes">
+            {% for note in page.notes %}
+              <div><sup>{{ note.symbol }}</sup> {{ note.text }}</div>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        <div class="pub-links">
+          {% if page.paperurl %}<a class="pub-link" href="{{ page.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> Paper</a>{% endif %}
+          {% if page.codeurl %}<a class="pub-link" href="{{ page.codeurl }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>{% endif %}
+          {% if page.videourl %}<a class="pub-link" href="{{ page.videourl }}"><i class="fas fa-fw fa-video" aria-hidden="true"></i> Video</a>{% endif %}
+          {% if page.slidesurl %}<a class="pub-link" href="{{ page.slidesurl }}"><i class="fas fa-fw fa-chalkboard" aria-hidden="true"></i> Slides</a>{% endif %}
+          {% if page.posterurl %}<a class="pub-link" href="{{ page.posterurl }}"><i class="fas fa-fw fa-image" aria-hidden="true"></i> Poster</a>{% endif %}
+          {% if page.datasetsurl %}<a class="pub-link" href="{{ page.datasetsurl }}"><i class="fas fa-fw fa-database" aria-hidden="true"></i> Data</a>{% endif %}
+          {% if page.arxivurl %}<a class="pub-link" href="{{ page.arxivurl }}"><i class="fas fa-fw fa-scroll" aria-hidden="true"></i> arXiv</a>{% endif %}
+          {% if page.links %}
+            {% for link in page.links %}
+              <a class="pub-link" href="{{ link.url }}">{% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i> {% endif %}{{ link.label }}</a>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    </header>
+
+    {% assign abstract_text = page.abstract | default: page.excerpt %}
+    {% if abstract_text %}
+      <section class="pub-abstract">
+        <div class="pub-abstract__inner">
+          <h2>Abstract</h2>
+          {{ abstract_text | markdownify }}
+        </div>
+      </section>
+    {% endif %}
+
+    <div class="pub-content" itemprop="text">
+      {{ content }}
+
+      {% if page.bibtex %}
+        <section class="pub-bibtex">
+          <h2>BibTeX</h2>
+          <div class="pub-bibtex__box">
+            <pre><code id="bibtex-{{ page.url | slugify }}">{{ page.bibtex }}</code></pre>
+            <button type="button" class="pub-bibtex__copy" data-copy-target="bibtex-{{ page.url | slugify }}">Copy</button>
+          </div>
+        </section>
+      {% elsif page.citation %}
+        <section class="pub-citation">
+          <h2>Citation</h2>
+          <p>{{ page.citation }}</p>
+        </section>
+      {% endif %}
+
+      <p><a class="pub-back" href="{{ base_path }}/publications/"><i class="fas fa-fw fa-arrow-left" aria-hidden="true"></i> Back to publications</a></p>
+    </div>
+
+    {% if site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.pub-bibtex__copy').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var target = document.getElementById(btn.getAttribute('data-copy-target'));
+        if (!target || !navigator.clipboard) { return; }
+        navigator.clipboard.writeText(target.textContent.trim()).then(function () {
+          var original = btn.textContent;
+          btn.textContent = 'Copied!';
+          setTimeout(function () { btn.textContent = original; }, 1500);
+        });
+      });
+    });
+  });
+</script>

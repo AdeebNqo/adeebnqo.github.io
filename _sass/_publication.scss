@@ -1,0 +1,226 @@
+/* ==========================================================================
+   PUBLICATION PAGE
+   (styled after https://github.com/RomanHauksson/academic-project-astro-template)
+   ========================================================================== */
+
+.pub {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 0 1.5em 2em;
+}
+
+/* Header: title, authors, venue, links
+   ========================================================================== */
+
+.pub-header {
+  position: relative;
+  margin: -2em -1em 2em;
+  padding: 3em 1.5em;
+  text-align: center;
+  background-color: $lighter-gray;
+  background-size: cover;
+  background-position: center;
+
+  @include breakpoint($large) {
+    margin-left: calc(-50vw + 50% + -1em);
+    margin-right: calc(-50vw + 50% + -1em);
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+
+  &--cover {
+    color: #fff;
+
+    .pub-header__scrim {
+      display: block;
+    }
+  }
+}
+
+.pub-header__scrim {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.45);
+}
+
+.pub-header__inner {
+  position: relative;
+  z-index: 1;
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+.pub-header__title {
+  margin: 0 0 0.75em;
+  font-family: $global-font-family;
+  font-weight: bold;
+  font-size: $type-size-2;
+  line-height: 1.25;
+
+  @include breakpoint($large) {
+    font-size: $type-size-1;
+  }
+}
+
+.pub-authors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 1.25em;
+  margin-bottom: 0.5em;
+  font-size: $type-size-5;
+
+  &__item {
+    line-height: 1.4;
+
+    a {
+      text-decoration: none;
+      border-bottom: 1px dotted;
+
+      &:hover {
+        border-bottom-style: solid;
+      }
+    }
+  }
+
+  &__institution {
+    font-size: $type-size-6;
+    opacity: 0.75;
+  }
+}
+
+.pub-venue {
+  margin-bottom: 1.25em;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5em;
+}
+
+.pub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.5em 1.25em;
+  color: #fff !important;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-decoration: none !important;
+  background-color: $darker-gray;
+  border-radius: 999px;
+  transition: $global-transition;
+
+  &:hover {
+    background-color: #000;
+  }
+
+  .pub-header--cover & {
+    color: $darker-gray !important;
+    background-color: #fff;
+
+    &:hover {
+      background-color: $lighter-gray;
+    }
+  }
+}
+
+/* Abstract band
+   ========================================================================== */
+
+.pub-abstract {
+  margin: 0 -1em 2em;
+  padding: 2em 1.5em;
+  background-color: $lighter-gray;
+
+  @include breakpoint($large) {
+    margin-left: calc(-50vw + 50% + -1em);
+    margin-right: calc(-50vw + 50% + -1em);
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+
+  &__inner {
+    max-width: 50rem;
+    margin: 0 auto;
+  }
+
+  h2 {
+    margin-top: 0;
+    border-bottom: none;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+/* Body content
+   ========================================================================== */
+
+.pub-content {
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
+}
+
+/* BibTeX / citation
+   ========================================================================== */
+
+.pub-bibtex,
+.pub-citation {
+  margin-top: 2em;
+
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
+}
+
+.pub-bibtex__box {
+  position: relative;
+
+  pre {
+    margin: 0;
+    padding: 1.25em;
+    overflow-x: auto;
+    font-size: $type-size-6;
+    background-color: $code-background-color;
+    border-radius: $border-radius;
+  }
+}
+
+.pub-bibtex__copy {
+  position: absolute;
+  top: 0.75em;
+  right: 0.75em;
+  padding: 0.35em 0.75em;
+  color: $text-color;
+  font-size: $type-size-7;
+  font-weight: bold;
+  background-color: $background-color;
+  border: 1px solid $border-color !important;
+  border-radius: $border-radius;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $lighter-gray;
+  }
+}
+
+/* Back link
+   ========================================================================== */
+
+.pub-back {
+  display: inline-block;
+  margin-top: 2em;
+}
