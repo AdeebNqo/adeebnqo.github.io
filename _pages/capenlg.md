@@ -7,6 +7,11 @@ author_profile: false
 
 Research group based in Cape Town focused on natural language generation (NLG) for African languages, with a particular emphasis on low-resourced Southern African langauges.
 
+<figure>
+  <img src="/images/six-tuscan-poets.jpg" alt="Six Tuscan Poets, painting by Giorgio Vasari (1544)">
+  <figcaption><em>Six Tuscan Poets</em>, Giorgio Vasari (1544). Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
 
 ## Focus areas
 
