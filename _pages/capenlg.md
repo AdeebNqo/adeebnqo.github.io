@@ -41,6 +41,16 @@ Research group based in Cape Town focused on natural language generation (NLG) f
 -  Génevieve Rachel Chikwanha
 
 
+## Alumni
+
+- Mandikudza Dangwa, Emma Van Der Berg, and Rector Ratsaka (Honours. 2025. On: Controlled Natural languages and models for research question authoring, scoring, and improvement)
+- Alexander van der Leek, Jonathan Mopp (Honours. 2024. On: Comparing the utility of morphosyntactical data vs. semantics for noun classification)
+- Liam Talberg and Adam Vere (Honours. 2023. On: Comparing pre-trained models to template-based methods for automatic question)
+- Danny Guttman and Mandisa Tunzi (Honours. 2023. On: Improving Text-Based Programming Error Messages For South African Students)
+- Amy Solomons and Junior Moraba (Honours. 2021. On: Digital Assistant for Financial Transactions)
+- Shannon Smith (Honours. 2020. On: Generating isiZulu text from Mathematical expressions)
+- Jarryd Dunn and Matthew Poulter (Honours. 2019. On: A comparison of end-to-end models and templates for generating text)
+
 ## Publications
 
 Work associated with CapeNLG members can be found on the [publications](/publications/) page.
