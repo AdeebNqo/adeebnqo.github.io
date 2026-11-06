@@ -5,7 +5,7 @@ permalink: /capenlg/
 author_profile: false
 ---
 
-Research group based in Cape Town focused on natural language generation (NLG) for African languages, with a particular emphasis on low-resourced Southern African langauges.
+Research group based in Cape Town focused on natural language generation (NLG) for African languages, with a particular emphasis on low-resourced Southern African languages.
 
 <figure>
   <img src="/images/six-tuscan-poets.jpg" alt="Six Tuscan Poets, painting by Giorgio Vasari (1544)">
@@ -19,7 +19,7 @@ Research group based in Cape Town focused on natural language generation (NLG) f
 - Controlled natural languages
 - Computational morphology, noun classification, and other tasks for African languages
 - Knowledge engineering and ontology verbalisation
-- Human evaluation of generated text
+- Human evaluation of auto. generated text
 
 ## Members
 
@@ -28,22 +28,22 @@ Research group based in Cape Town focused on natural language generation (NLG) f
 ## Postgraduate students
 
 - Phuthang Makhupane (MSc. CS)
-- Tadiwa Magwenzi (MSc. CS)
-- Masixole Nkumbesi (MPhil. Inclusive Innovation)
+- [Tadiwa Magwenzi](https://uk.linkedin.com/in/tadiwa-magwenzi) (MSc. CS)
+- [Masixole Nkumbesi](https://za.linkedin.com/in/masixole-nkumbesi) (MPhil. Inclusive Innovation)
 - Dennis Kiptanui Too (PhD. CS)
 - Atshilaho Nethathe (PhD. CS)
-- Daniel Holgate (Msc. CS)
-- Nana kwabena Opoku-Acheampong (Msc. AI)
-- Lindani Buthelezi (M.IT)
+- [Daniel Holgate](https://za.linkedin.com/in/daniel-holgate) (Msc. CS)
+- [Nana kwabena Opoku-Acheampong](https://za.linkedin.com/in/nana-kwabena-opoku-acheampong-623981237) (Msc. AI)
+- [Lindani Buthelezi](https://za.linkedin.com/in/lindani-buthelezi) (M.IT)
 
 ## Hons students
 
-- Dylan Saayman, Connor Paton, Dean Sneddon
+- [Dylan Saayman, Connor Paton, Dean Sneddon](https://projects.cs.uct.ac.za/honsproj/cgi-bin/view/2026/paton_saayman_sneddon.zip/): On Large Language Models to African Languages
 
 ## Scientific programmers and research assistants 
 
-- Katlego Makhubedu
--  Génevieve Rachel Chikwanha
+- [Katlego Makhubedu](https://za.linkedin.com/in/katlego-makhubedu): On linguistically-motivated approaches for noun classification
+- Génevieve Rachel Chikwanha: On LLMs for Afrikaaps
 
 
 ## Alumni
