@@ -35,17 +35,12 @@ Research group based in Cape Town focused on natural language generation (NLG) f
 - [Nana kwabena Opoku-Acheampong](https://za.linkedin.com/in/nana-kwabena-opoku-acheampong-623981237) (Msc. AI)
 - [Lindani Buthelezi](https://za.linkedin.com/in/lindani-buthelezi) (M.IT)
 
-
-## Scientific programmers and research assistants 
+## Alumni
 
 - [Katlego Makhubedu](https://za.linkedin.com/in/katlego-makhubedu): On linguistically-motivated approaches for noun classification
 - Génevieve Rachel Chikwanha: On LLMs for Afrikaaps
-
-
-## Alumni
-
 - [Dylan Saayman, Connor Paton, Dean Sneddon](https://projects.cs.uct.ac.za/honsproj/cgi-bin/view/2026/paton_saayman_sneddon.zip/): On Large Language Models to African Languages
-- Phuthang Makhupane (MSc. AI): Thesis: Developing Metrics to Measure the Bootstrapping Potential of NLP Resources between NCB Languages
+- Phuthang Makhupane (MSc. AI). 2026: Thesis: Developing Metrics to Measure the Bootstrapping Potential of NLP Resources between NCB Languages
 - Mandikudza Dangwa, Emma Van Der Berg, and Rector Ratsaka (Honours. 2025. On: Controlled Natural languages and models for research question authoring, scoring, and improvement)
 - Alexander van der Leek, Jonathan Mopp (Honours. 2024. On: Comparing the utility of morphosyntactical data vs. semantics for noun classification)
 - Liam Talberg and Adam Vere (Honours. 2023. On: Comparing pre-trained models to template-based methods for automatic question generation)
